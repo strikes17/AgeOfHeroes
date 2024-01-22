@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.BlacksmithSpecialBuilding, AgeOfHeroes",
+  "attackValue": 0,
+  "defenseValue": 0,
+  "goldCost": 100,
+  "gemsCost": 1,
+  "fraction": 1,
+  "internalName": "HUM_blacksmith",
+  "title": "Blacksmith",
+  "description": "+5 defense    +10 attack",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IconPath": "stats+shoots_stat",
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

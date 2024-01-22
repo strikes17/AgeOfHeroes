@@ -1,0 +1,28 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 2,
+  "variant": 1,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": "Hum_Ballista_1",
+  "basicCharacterName": "Pikeman",
+  "eliteCharacterName": "PikemanElite",
+  "upgradeGoldCost": 200,
+  "upgradeGemsCost": 1,
+  "goldCost": 100,
+  "gemsCost": 0,
+  "fraction": 1,
+  "internalName": "Hum_Pikeman_1",
+  "title": "Guard Tower",
+  "description": "tier: 2\r\nvariant: 1\r\nbasicCharacterName: Pikeman\r\neliteCharacterName: Royal Guard\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Hum_Pikeman_1\r\ntitle: Guard Tower\r\ndescription: \r\nisBuilt: False\r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Hum_Archery_1",
+      "Hum_Peasant_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

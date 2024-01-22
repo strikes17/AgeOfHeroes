@@ -1,0 +1,93 @@
+{
+  "Characters": {
+    "Human": [
+      "Angel",
+      "AngelElite",
+      "Archer",
+      "ArcherElite",
+      "Ballista",
+      "BallistaElite",
+      "Catapult",
+      "CatapultElite",
+      "Cavalier",
+      "CavalierElite",
+      "Gryphon",
+      "GryphonElite",
+      "Monk",
+      "MonkElite",
+      "Peasant",
+      "PeasantElite",
+      "Pikeman",
+      "PikemanElite",
+      "Swordsman",
+      "SwordsmanElite",
+      "Worker",
+      "WorkerElite"
+    ],
+    "Undead": [
+      "BoneDragon",
+      "BoneDragonElite",
+      "DeathKnight",
+      "DeathKnightElite",
+      "Garghoule",
+      "GarghouleElite",
+      "Ghost",
+      "GhostElite",
+      "Ghoul",
+      "GhoulElite",
+      "Lich",
+      "LichElite",
+      "Mummie",
+      "MummieElite",
+      "Reaper",
+      "ReaperElite",
+      "Skeleton",
+      "SkeletonElite",
+      "Vampire",
+      "VampireElite",
+      "Whispers",
+      "WhispersElite"
+    ],
+    "Inferno": [
+      "Demon",
+      "DemonElite",
+      "Devil",
+      "DevilElite",
+      "Efreet",
+      "EfreetElite",
+      "Fiend",
+      "FiendElite",
+      "Gog",
+      "GogElite",
+      "Heretic",
+      "HereticElite",
+      "Horse",
+      "HorseElite",
+      "Hound",
+      "HoundElite",
+      "Imp",
+      "ImpElite",
+      "Succub",
+      "SuccubElite",
+      "Totem",
+      "TotemElite"
+    ],
+    "Mages": [],
+    "None": []
+  },
+  "Heroes": {
+    "Human": [
+      "KnightAlexander"
+    ],
+    "Undead": [
+      "NecromantMantius"
+    ],
+    "Inferno": [
+      "DemonHero"
+    ],
+    "Mages": [],
+    "None": [
+      "Default"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "$type": "AgeOfHeroes.Spell.SpellBookObject, AgeOfHeroes",
+  "internalName": "Alexander",
+  "spells": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "magic_paralych_1",
+      "magic_sparks_1",
+      "amplify15",
+      "magic_undblind_1",
+      "mentor_1",
+      "kill"
+    ]
+  }
+}

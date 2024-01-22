@@ -1,0 +1,55 @@
+{
+  "$type": "AgeOfHeroes.CastleTierSpecialBuilding, AgeOfHeroes",
+  "tier": 2,
+  "nextTierUpgrade": "ALL_Castle_Tier_Upgrade_4",
+  "goldIncome": 125,
+  "gemsIncome": 0.05,
+  "growthMultiplier": 0.25,
+  "StartingGuards": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes]], mscorlib",
+    "1": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 500,
+      "IsElite": false
+    },
+    "2": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 300,
+      "IsElite": false
+    },
+    "3": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 250,
+      "IsElite": false
+    },
+    "4": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 250,
+      "IsElite": false
+    },
+    "5": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 100,
+      "IsElite": false
+    },
+    "6": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    }
+  },
+  "goldCost": 300,
+  "gemsCost": 0,
+  "fraction": 0,
+  "internalName": "ALL_Castle_Tier_Upgrade_3",
+  "title": "Tier 3",
+  "description": "nextTierUpgrade: ALL_Castle_Tier_Upgrade_4\r\ngoldIncome: 125\r\ngemsIncome: 0,05\r\ngrowthMultiplier: 0,25\r\nStartingGuards: System.Collections.Generic.Dictionary`2[System.Int32,AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo]\r\nEditorIcon: build_cupgrade_1_1 (UnityEngine.Sprite)\r\ngoldCost: 300\r\ngemsCost: 0\r\nfraction: None\r\ninternalName: ALL_Castle_Tier_Upgrade_3\r\ntitle: Tier 3\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IconPath": "build_cupgrade_1+build_cupgrade_1_1",
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

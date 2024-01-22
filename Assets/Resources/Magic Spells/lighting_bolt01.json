@@ -1,0 +1,36 @@
+{
+  "$type": "AgeOfHeroes.Spell.SingleTargetedMagicSpellObject, AgeOfHeroes",
+  "internalName": "lighting_bolt01",
+  "title": "Lighting bolt",
+  "description": null,
+  "allowedTarget": 122,
+  "castRange": 4,
+  "selfCast": false,
+  "baseCooldown": 0,
+  "baseChargesCount": 0,
+  "baseManaCost": 0,
+  "iconName": "spells+spells_0",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "lb_01_buff",
+      "thunderbolt_shock"
+    ]
+  },
+  "affectsOnlyTheseCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Efreet
+  m_EditorClassIdentifier: 
+  Fraction: 3
+  title: Efreet
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips: []
+  deathAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 303893559, guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 5
+  startingMovementPoints: 2
+  startingHealth: 120
+  startingMana: 0
+  damageValue: 50
+  attackValue: 40
+  defenseValue: 15
+  attackRange: 14
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 1000000040000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 3
+  goldPrice: 160
+  gemsPrice: 0
+  baseGrowthPerDay: 0.3
+  fullStackCount: 3
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: f3c2e0c75e937894fba8735408dc6ca1, type: 2}

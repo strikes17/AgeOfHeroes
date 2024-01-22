@@ -1,0 +1,11 @@
+{
+  "$type": "AgeOfHeroes.StatueRecoveryAbility, AgeOfHeroes",
+  "performedOnRetilation": true,
+  "spriteIconPath": "artifacts_atlas+artifacts_atlas_1",
+  "combatAbilityType": 3,
+  "combatAbilityOrder": 4,
+  "description": null,
+  "title": "Recovery",
+  "internalName": "garg_recovery",
+  "executeAlways": false
+}

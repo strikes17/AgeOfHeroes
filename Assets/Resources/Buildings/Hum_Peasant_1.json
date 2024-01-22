@@ -1,0 +1,17 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "level": 1,
+  "tier": 1,
+  "variant": 1,
+  "basicCharacterName": "Peasant",
+  "eliteCharacterName": "PeasantElite",
+  "fraction": 1,
+  "internalName": "Hum_Peasant_1",
+  "title": "Farm",
+  "description": "CharacterShopBuildingObject: \r\ninternalName: Hum_Peasant_1\r\ntitle: Peasant\r\ndescription: \r\n",
+  "isBuilt": true,
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

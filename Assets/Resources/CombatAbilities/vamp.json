@@ -1,0 +1,12 @@
+{
+  "$type": "AgeOfHeroes.VampirismAbility, AgeOfHeroes",
+  "effectMultiplier": 0.4,
+  "performedOnRetilation": true,
+  "spriteIconPath": "stats+health_stat",
+  "combatAbilityType": 1,
+  "combatAbilityOrder": 1,
+  "description": null,
+  "title": "Vampirism",
+  "internalName": "vamp",
+  "executeAlways": true
+}

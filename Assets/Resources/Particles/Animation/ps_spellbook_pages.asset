@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa2e65e8c7b4375994434246c53cdc9, type: 3}
+  m_Name: ps_spellbook_pages
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  fps: 0.05
+  Sprites:
+  - {fileID: 985167270, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: -1779136762, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 749750276, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 1140806438, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: -1556638094, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 1676328455, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 999344615, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: -97151739, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 1047921481, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: -1796183472, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 800849067, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 286519556, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 1466161162, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 751050844, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}
+  - {fileID: 2138489770, guid: 1ee28881e5f4a474a9eae6c398148606, type: 3}

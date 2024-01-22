@@ -1,0 +1,37 @@
+{
+  "$type": "AgeOfHeroes.Spell.SingleTargetedMagicSpellObject, AgeOfHeroes",
+  "internalName": "blind2",
+  "title": "Blindness",
+  "description": null,
+  "allowedTarget": 147,
+  "castRange": 6,
+  "selfCast": true,
+  "baseCooldown": 0,
+  "baseChargesCount": 0,
+  "baseManaCost": 0,
+  "iconName": "magic_pack_1+magic_pack_1_1",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "blind2"
+    ]
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "blind2"
+    ]
+  },
+  "affectsOnlyTheseCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

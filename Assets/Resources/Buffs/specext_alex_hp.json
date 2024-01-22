@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.HealthModifierBuff, AgeOfHeroes",
+  "value": 0.25,
+  "Operation": 0,
+  "title": "Health",
+  "internalName": "specext_alex_hp",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": -1,
+  "isDispellable": false,
+  "stackingEnabled": true,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+health_stat",
+  "IntegerValue": 0,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

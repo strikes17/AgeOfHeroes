@@ -1,0 +1,20 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecializationHeroSkill, AgeOfHeroes",
+  "onAlliesBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "onSelfBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "specext_alex_attack"
+    ]
+  },
+  "tierDependent": true,
+  "neighboursLimit": 4,
+  "title": "att",
+  "internalName": "specext_alex_attack_self",
+  "description": null,
+  "spriteIconPath": "swordsman_skills+swordsman_skills_42",
+  "NeighboursCount": 0
+}

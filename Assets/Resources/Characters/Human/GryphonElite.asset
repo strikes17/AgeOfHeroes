@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: GryphonElite
+  m_EditorClassIdentifier: 
+  Fraction: 1
+  title: Royal Gryphon
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 961ccefdba2b9c1468c2033e291f8bec, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: af449aeb848928d499b06387d7390a7a, type: 3}
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: f1e7b0b9bf2f97144b817fbe166b6150, type: 3}
+  - {fileID: 8300000, guid: e4baa159b4e3cf5479e8f16a03d1e4bc, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: ff0852fb517730244a15cb67342573c2, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -2029749586, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: -301693729, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 4
+  startingMovementPoints: 10
+  startingHealth: 200
+  startingMana: 10
+  damageValue: 25
+  attackValue: 25
+  defenseValue: 30
+  attackRange: 1
+  isFlying: 1
+  canCrossWater: 1
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 2
+  retilationsCount: 100
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 8
+  experienceValue: 60
+  goldPrice: 150
+  gemsPrice: 0
+  baseGrowthPerDay: 0.6
+  fullStackCount: 6
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

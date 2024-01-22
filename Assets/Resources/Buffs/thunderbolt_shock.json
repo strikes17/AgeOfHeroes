@@ -1,0 +1,15 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 10,
+  "isLethal": true,
+  "title": "Shock",
+  "internalName": "thunderbolt_shock",
+  "description": "value: 10\r\nisLethal: True\r\ntitle: Shock\r\ninternalName: thunderbolt_shock\r\ndescription: \r\ndurationInRounds: 2\r\n",
+  "specialEffectName": "thunder_shock_1",
+  "durationInRounds": 3,
+  "isDispellable": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_1",
+  "Active": true,
+  "RoundsPassed": 0
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: ground_overlay
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1617340717, guid: 2e9aac3ed16127940a45989e08e175b6, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: 832852d41093dec47a5afff5f16a14bc, type: 2}
+  - {fileID: 11400000, guid: 7f00221bcd0bf324cb327f1efcf76de1, type: 2}
+  MaterialName: 11
+  TileMapType: 9
+  baseMovementPenalty: 0

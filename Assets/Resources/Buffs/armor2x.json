@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.Spell.DefenseModifierBuff, AgeOfHeroes",
+  "value": 1.0,
+  "Operation": 0,
+  "title": "Stone Skin",
+  "internalName": "armor2x",
+  "description": "amplifies armor x <color=#00FF00>+2</color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": null,
+  "durationInRounds": 4,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+defense_stat",
+  "IntegerValue": 1,
+  "BaseValue": 0.0,
+  "Active": true,
+  "RoundsPassed": 0
+}

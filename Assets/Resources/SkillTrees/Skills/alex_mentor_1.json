@@ -1,0 +1,14 @@
+{
+  "$type": "AgeOfHeroes.SpellLearnHeroSkill, AgeOfHeroes",
+  "magicSpellVariants": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "mentor_1"
+    ]
+  },
+  "totalVariantsShown": 1,
+  "title": "Mentoring",
+  "internalName": "alex_mentor_1",
+  "description": null,
+  "spriteIconPath": "swordsman_skills+swordsman_skills_6"
+}

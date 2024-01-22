@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBlockEventBuff, AgeOfHeroes",
+  "value": 50,
+  "onAttackPerformedBuffName": null,
+  "onAttackRecievedBuffName": null,
+  "isBuffAppliesOnSelf": true,
+  "title": "block",
+  "internalName": "specext_alex_block",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": -1,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+defense_stat",
+  "Active": true
+}

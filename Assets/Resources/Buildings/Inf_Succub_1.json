@@ -1,0 +1,29 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 3,
+  "variant": 1,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": null,
+  "basicCharacterName": "Succub",
+  "eliteCharacterName": "SuccubElite",
+  "upgradeGoldCost": 100,
+  "upgradeGemsCost": 0,
+  "goldCost": 200,
+  "gemsCost": 0,
+  "fraction": 3,
+  "internalName": "Inf_Succub_1",
+  "title": "Succubus",
+  "description": "tier: 3\r\nvariant: 1\r\nrecruitmentsAvailable: 0\r\nblockedByBuildingName: \r\nbasicCharacterName: Succub\r\neliteCharacterName: SuccubElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nupgradeGoldCost: 100\r\nupgradeGemsCost: 0\r\ngoldCost: 200\r\ngemsCost: 0\r\nfraction: Inferno\r\ninternalName: Inf_Succub_1\r\ntitle: Succubus\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Inf_Demon_1",
+      "Inf_Gog_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

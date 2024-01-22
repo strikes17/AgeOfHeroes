@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: RockyDirt01
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2003556554, guid: 330b730106b8b63409cf82e99eb60796, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: c8141174093d33d41990223bec09209b, type: 2}
+  - {fileID: 11400000, guid: 91ffab556b700164389282627483443a, type: 2}
+  - {fileID: 11400000, guid: 3abb4dd87f791c7448c29b20bb41082b, type: 2}
+  - {fileID: 11400000, guid: e0ac24a71806a194ab7258d79a600f95, type: 2}
+  - {fileID: 11400000, guid: bd7de1ac9a8c26144abdbc1cf00b5ef9, type: 2}
+  - {fileID: 11400000, guid: d0b00dd615bb0a840ac64f30faef3da7, type: 2}
+  - {fileID: 11400000, guid: a416da51598383c49a731aa1f69e6d37, type: 2}
+  - {fileID: 11400000, guid: d39356d1d0a95254d8d4dc7cc27204e2, type: 2}
+  - {fileID: 11400000, guid: 40bbde78ea835be4fb3464497a7abee8, type: 2}
+  MaterialName: 3
+  TileMapType: 0
+  baseMovementPenalty: 0

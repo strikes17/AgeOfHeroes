@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 10000,
+  "isLethal": true,
+  "title": "kill",
+  "internalName": "kill",
+  "description": null,
+  "specialEffectName": "sparks",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+damage_stat",
+  "Active": true
+}

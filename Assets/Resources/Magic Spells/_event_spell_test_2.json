@@ -1,0 +1,31 @@
+{
+  "$type": "AgeOfHeroes.Spell.SingleTargetedMagicSpellObject, AgeOfHeroes",
+  "internalName": "_event_spell_test_2",
+  "title": "Press The Attack",
+  "description": null,
+  "allowedTarget": 49,
+  "castRange": 4,
+  "selfCast": true,
+  "baseCooldown": 1,
+  "baseChargesCount": 1,
+  "baseManaCost": 1,
+  "iconName": "spells+spells_4",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "_event_buff_test_2"
+    ]
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

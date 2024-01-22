@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 120,
+  "isLethal": true,
+  "title": "Lighting bolt",
+  "internalName": "lb_01_buff",
+  "description": "value: 120\r\nisLethal: True\r\ntitle: Lighting bolt\r\ninternalName: lb_01_buff\r\ndescription: \r\ndurationInRounds: 1\r\nbuffUpdateMoment: 0\r\n",
+  "specialEffectName": "thunder_bolt_se",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_1",
+  "Active": true
+}

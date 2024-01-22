@@ -1,0 +1,35 @@
+{
+  "$type": "AgeOfHeroes.Spell.SingleTargetedMagicSpellObject, AgeOfHeroes",
+  "internalName": "fire_damage12",
+  "title": "Fireball",
+  "description": null,
+  "allowedTarget": 18,
+  "castRange": 6,
+  "selfCast": false,
+  "baseCooldown": 0,
+  "baseChargesCount": 0,
+  "baseManaCost": 0,
+  "iconName": "spells+spells_1",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "fire_damage12"
+    ]
+  },
+  "affectsOnlyTheseCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

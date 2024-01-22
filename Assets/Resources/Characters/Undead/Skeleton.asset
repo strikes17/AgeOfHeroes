@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Skeleton
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Skeleton
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 99c73d6162c52454b8cc4d70bb4f300a, type: 3}
+  - {fileID: 8300000, guid: f67228a212c03f741823a331b6763606, type: 3}
+  - {fileID: 8300000, guid: 27181b9bcc25b9349a37856f35b4471c, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: f6c57745325a2da4bbc01d6b52fef0e5, type: 3}
+  - {fileID: 8300000, guid: ed85f316d175c0f48bf6bdebd5036b0f, type: 3}
+  - {fileID: 8300000, guid: f7a9c80eec348f04fb0cbee6de33fa4c, type: 3}
+  - {fileID: 8300000, guid: 45d6873856f430845ab33063a7596861, type: 3}
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: c198261559ba0284aab50822dbe0e0af, type: 3}
+  - {fileID: 8300000, guid: 410ca3e41edb011499bccd75bf273b41, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 9d3d3b85f3491304796dbb486954a258, type: 3}
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -1105047250, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 1
+  startingMovementPoints: 3
+  startingHealth: 4
+  startingMana: 0
+  damageValue: 4
+  attackValue: 6
+  defenseValue: 4
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 3
+  experienceValue: 1
+  goldPrice: 2
+  gemsPrice: 0
+  baseGrowthPerDay: 12
+  fullStackCount: 100
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: 977e40117b9125d4cb8c9f9ec2f848ad, type: 2}

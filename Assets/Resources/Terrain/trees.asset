@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: trees
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1439493635, guid: 541e1c41bcae6b04986e56e91b9b0e05, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: e2ca92952588058488cddbf754c8fc1c, type: 2}
+  - {fileID: 11400000, guid: dd0774d36f85da146b33c85577616273, type: 2}
+  - {fileID: 11400000, guid: 4e0380a979f4dac4abf8d7f14e135a57, type: 2}
+  - {fileID: 11400000, guid: 0b80b2c1de26fa947881e3f1a3aa8088, type: 2}
+  - {fileID: 11400000, guid: 5bcb5cd07b769924a9b221feec431d26, type: 2}
+  - {fileID: 11400000, guid: 7d561eb94afb9c94e9149a614c8053bf, type: 2}
+  - {fileID: 11400000, guid: 7afb39eabb5ddac458582023e786e30a, type: 2}
+  - {fileID: 11400000, guid: e599a4c7773c3644097e92de7ec41e28, type: 2}
+  - {fileID: 11400000, guid: 34a944f8b022fe146b1b5cf9b398b28c, type: 2}
+  - {fileID: 11400000, guid: 19c5fbe20c1568b46ac4e8b8a29b147c, type: 2}
+  - {fileID: 11400000, guid: 5a09985b7804a304fb113ed422f35df4, type: 2}
+  - {fileID: 11400000, guid: cc6391e99e6be3640a635e6cbdf6e3c5, type: 2}
+  MaterialName: 0
+  TileMapType: 8
+  baseMovementPenalty: 0

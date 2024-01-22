@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.AttacksCountModifierBuff, AgeOfHeroes",
+  "value": -1.0,
+  "Operation": 0,
+  "title": "Paralych",
+  "internalName": "buff_paralychatt_1",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": 3,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_4",
+  "IntegerValue": -1,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

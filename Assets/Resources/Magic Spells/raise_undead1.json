@@ -1,0 +1,37 @@
+{
+  "$type": "AgeOfHeroes.Spell.SingleTargetedMagicSpellObject, AgeOfHeroes",
+  "internalName": "raise_undead1",
+  "title": "Raise Undead",
+  "description": null,
+  "allowedTarget": 4129,
+  "castRange": 4,
+  "selfCast": false,
+  "baseCooldown": 0,
+  "baseChargesCount": 0,
+  "baseManaCost": 0,
+  "iconName": "magic_pack_1+magic_pack_1_6",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ressurection1"
+    ]
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ressurection1"
+    ]
+  },
+  "affectsOnlyTheseCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

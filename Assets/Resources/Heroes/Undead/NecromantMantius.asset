@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f2771d532b94d7dbbc8bcc80cab103a, type: 3}
+  m_Name: NecromantMantius
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Mantius The Dead Legion
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips: []
+  deathAudioClips: []
+  cheerAudioClips: []
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames: []
+  spellBookInternalName: SpellBook
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 890146395, guid: ef22b218be847e54593b0a9bb5088b31, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 1
+  startingMovementPoints: 7
+  startingHealth: 200
+  startingMana: 100
+  damageValue: 15
+  attackValue: 15
+  defenseValue: 15
+  attackRange: 4
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 1
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 8000000020000000
+  shoots: -1
+  isHuge: 0
+  visionRadius: 6
+  experienceValue: 0
+  portraitIcon: {fileID: -1752039259, guid: c9fb1570fe112b14283da31980bbb79a, type: 3}
+  personalName: Mantius
+  skillTreeObjectName: Mantius_Tree
+  maxLevel: 6
+  experiencePerLevel: 0000000064000000c800000090010000bc020000

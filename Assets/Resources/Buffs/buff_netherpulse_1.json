@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.NetherPulseBuff, AgeOfHeroes",
+  "radius": 2,
+  "damagePerAlly": 50,
+  "healPerEnemy": 30,
+  "buffOnAlivesName": "buff_deathpulse_dmg",
+  "buffOnUndeadName": "buff_netherpulse_heal",
+  "title": "Nether Pulse",
+  "internalName": "buff_netherpulse_1",
+  "description": null,
+  "specialEffectName": "netherpulse",
+  "baseDuration": 1,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_2",
+  "Active": true
+}

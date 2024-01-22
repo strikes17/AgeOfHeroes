@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecExtensionBuffsHeroSkill, AgeOfHeroes",
+  "onAlliesBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "specext_alex_attack"
+    ]
+  },
+  "onSelfBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "baseSpecializationInternalName": "spec_alex_1",
+  "title": "Attack!",
+  "internalName": "specext_attack_alex_1",
+  "description": null,
+  "spriteIconPath": "swordsman_skills+swordsman_skills_24"
+}

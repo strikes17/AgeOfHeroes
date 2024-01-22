@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: GrassLands
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -2145001693, guid: 8c1a76384fc9d12498bd9d63bcc7e9f8, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: eb4136066c7af3b45b252ef74998b1a5, type: 2}
+  - {fileID: 11400000, guid: 70c34508462232240a3856441b46125a, type: 2}
+  - {fileID: 11400000, guid: 3a36ad1b9fd990f4ea786203693dfcfb, type: 2}
+  - {fileID: 11400000, guid: 6c8fdb52e6cc951499a7082c60ea4d29, type: 2}
+  - {fileID: 11400000, guid: 38fef1bfbe173a44d9d684b2c1d86c18, type: 2}
+  - {fileID: 11400000, guid: 3520cfb3c036e594ca3dda7f3210ea94, type: 2}
+  - {fileID: 11400000, guid: e3ba110b71b8a734fbda8b8df488850e, type: 2}
+  - {fileID: 11400000, guid: de3a69482c78cee43a9e9b85b2b58410, type: 2}
+  - {fileID: 11400000, guid: e99bf35dfe0c9204cb6a8dbcdb838edd, type: 2}
+  - {fileID: 11400000, guid: 2379e4c86603ad7419a709b5b740746e, type: 2}
+  - {fileID: 11400000, guid: d709ee375f5f5784c871a013e6d78d55, type: 2}
+  - {fileID: 11400000, guid: ed328ac91f4b8e948a69a90b37422625, type: 2}
+  - {fileID: 11400000, guid: a126365c7c28e134d9c7a50ce4b9b823, type: 2}
+  - {fileID: 11400000, guid: af672440ec2da3d4e9d72fb62f2296ba, type: 2}
+  - {fileID: 11400000, guid: c9dead3f0ab540e45908c251310add1e, type: 2}
+  - {fileID: 11400000, guid: 99c287df8b4f15a44a868c605497ec7e, type: 2}
+  - {fileID: 11400000, guid: 1613a8b8c26971b4ba16eb1032c3736e, type: 2}
+  - {fileID: 11400000, guid: 4d8f09e709b5e284a89cdea29eb1e76a, type: 2}
+  - {fileID: 11400000, guid: 617b3fe3a86425845b5bfd4bcec05154, type: 2}
+  - {fileID: 11400000, guid: 71c295a24db8711428e44e76d2af6042, type: 2}
+  - {fileID: 11400000, guid: dec288cb6a296e84e8523c724cc1411d, type: 2}
+  - {fileID: 11400000, guid: 509f3a8137a4749498d046b8eeeaa6db, type: 2}
+  - {fileID: 11400000, guid: 4a73f9bca9113574a8ea39ee7f4e8ee9, type: 2}
+  - {fileID: 11400000, guid: aea488dd3aadf4d4d986c9b609d0a8bb, type: 2}
+  - {fileID: 11400000, guid: a106ff9d4bfbe404fbbc50593377ff5a, type: 2}
+  - {fileID: 11400000, guid: ea39084cc307b3b4599758e3a6161d2b, type: 2}
+  MaterialName: 0
+  TileMapType: 0
+  baseMovementPenalty: 0

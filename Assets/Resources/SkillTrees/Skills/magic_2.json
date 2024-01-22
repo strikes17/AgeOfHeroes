@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.SpellLearnHeroSkill, AgeOfHeroes",
+  "magicSpellVariants": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "magic_sparks_1",
+      "magic_paralych_1",
+      "magic_plague_1"
+    ]
+  },
+  "totalVariantsShown": 2,
+  "title": "Learn Spell",
+  "internalName": "magic_2",
+  "description": null,
+  "spriteIconPath": "necro_skills+necro_skills_10"
+}

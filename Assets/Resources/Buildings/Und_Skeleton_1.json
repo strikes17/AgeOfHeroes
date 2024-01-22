@@ -1,0 +1,25 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 1,
+  "variant": 1,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": null,
+  "basicCharacterName": "Skeleton",
+  "eliteCharacterName": "SkeletonElite",
+  "upgradeGoldCost": 150,
+  "upgradeGemsCost": 1,
+  "goldCost": 50,
+  "gemsCost": 0,
+  "fraction": 2,
+  "internalName": "Und_Skeleton_1",
+  "title": "Dead Field",
+  "description": "tier: 1\r\nvariant: 1\r\nrecruitmentsAvailable: 0\r\nblockedByBuildingName: \r\nbasicCharacterName: Skeleton\r\neliteCharacterName: SkeletonElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Und_Skeleton_1\r\ntitle: Old Temple\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.Spell.HealthModifierBuff, AgeOfHeroes",
+  "value": 10.0,
+  "Operation": 1,
+  "title": "healthplus10",
+  "internalName": "healthplus10",
+  "description": "increases health by <color=#00FF00>+10</color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": null,
+  "durationInRounds": 3,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+health_stat",
+  "IntegerValue": 10,
+  "BaseValue": 0.0,
+  "Active": true,
+  "RoundsPassed": 0
+}

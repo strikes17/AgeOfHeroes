@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa2e65e8c7b4375994434246c53cdc9, type: 3}
+  m_Name: fire01
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  fps: 0.125
+  Sprites:
+  - {fileID: 835831666, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: 83672109, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: -1627425653, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: 21497234, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: 341384499, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: 1338577719, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: -1292537081, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: 14424592, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: -1788076789, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}
+  - {fileID: -1057433747, guid: 22bb3098173bc7a4981ef9e5d0e6f09c, type: 3}

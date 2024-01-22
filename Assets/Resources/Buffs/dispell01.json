@@ -1,0 +1,17 @@
+{
+  "$type": "AgeOfHeroes.Spell.HealingBuff, AgeOfHeroes",
+  "value": 100,
+  "ressurects": false,
+  "dispellsNegativeBuffs": true,
+  "title": "Dispell",
+  "internalName": "dispell01",
+  "description": "value: 100\r\nressurects: False\r\ndispellsNegativeBuffs: True\r\ntitle: Dispell\r\ninternalName: dispell01\r\ndescription: \r\ndurationInRounds: 1\r\n",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": null,
+  "Active": true
+}

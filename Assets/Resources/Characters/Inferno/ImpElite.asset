@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: ImpElite
+  m_EditorClassIdentifier: 
+  Fraction: 3
+  title: Imp
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: d8a4a6efd4c656d4ba2fbaad3ed08070, type: 3}
+  - {fileID: 8300000, guid: 1cab66a195677494ba07048920ccef4f, type: 3}
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: 52165d28d2138a044ba75e2e4670a3a2, type: 3}
+  - {fileID: 8300000, guid: 5c5988e02ab47e44da3ebdbc686719ab, type: 3}
+  - {fileID: 8300000, guid: 40da1199acd41dc41ab894ef00dcda1e, type: 3}
+  - {fileID: 8300000, guid: a0c277e8b1a647a46bed1910a130673b, type: 3}
+  - {fileID: 8300000, guid: b66370894a7714e49add971e35e877fa, type: 3}
+  - {fileID: 8300000, guid: 952367b44c0065945b53656d82da8725, type: 3}
+  deathAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 1978315282, guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 1
+  startingMovementPoints: 3
+  startingHealth: 16
+  startingMana: 0
+  damageValue: 6
+  attackValue: 8
+  defenseValue: 10
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 8
+  goldPrice: 10
+  gemsPrice: 0
+  baseGrowthPerDay: 2
+  fullStackCount: 18
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

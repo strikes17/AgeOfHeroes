@@ -1,0 +1,32 @@
+{
+  "$type": "AgeOfHeroes.ResourceIncomeDwell, AgeOfHeroes",
+  "goldValue": 25,
+  "gemsValue": 0,
+  "coloredsNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "goldmine"
+    ]
+  },
+  "goldCost": 0,
+  "gemsCost": 0,
+  "fraction": 0,
+  "internalName": "Dwell_Gold25",
+  "title": "Gold dwell",
+  "description": "goldValue: 25\r\ngemsValue: 0\r\nEditorIcon: growth_stat (UnityEngine.Sprite)\r\ngoldCost: 0\r\ngemsCost: 0\r\nfraction: None\r\ninternalName: Dwell_Gold25\r\ntitle: Gold dwell\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "Position": {
+    "$type": "UnityEngine.Vector2Int, UnityEngine.CoreModule",
+    "x": 0,
+    "y": 0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0
+  },
+  "IconPath": "goldmine_sheet+goldmine_sheet_0",
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

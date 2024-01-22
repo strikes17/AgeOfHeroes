@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8bd665fc561634888f93bfaa950484, type: 3}
+  m_Name: thunder_bolt_se
+  m_EditorClassIdentifier: 
+  onBuffAppliedAudioClip: {fileID: 8300000, guid: 51be11d790c540a498073ed6d224c303, type: 3}
+  onBuffUpdateAudioClip: {fileID: 0}
+  onBuffExpiredAudioClip: {fileID: 0}
+  onBuffAppliedSpriteSequnce: {fileID: 0}
+  onBuffUpdateSpriteSequenceObject: {fileID: 0}
+  onBuffExpiredSpriteSequenceObject: {fileID: 0}
+  onBuffAppliedEffectCycles: 1
+  onBuffUpdateEffectCycles: 1
+  onBuffExpiredEffectCycles: 1

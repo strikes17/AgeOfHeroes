@@ -1,0 +1,55 @@
+{
+  "$type": "AgeOfHeroes.HeroSkillTreeObject, AgeOfHeroes",
+  "internalName": "Alexander_Tree",
+  "HeroSkills": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib]], mscorlib",
+    "1": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_alex_1"
+      ]
+    },
+    "2": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "magic_1",
+        "specext_alex_defense_allies",
+        "specext_attack_alex_1"
+      ]
+    },
+    "3": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "magic_2",
+        "specext_alex_hp",
+        "specext_alex_attack_self"
+      ]
+    },
+    "4": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_alex_2"
+      ]
+    },
+    "5": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "magic_1",
+        "specext_attack_alex_1",
+        "specext_alex_block"
+      ]
+    },
+    "6": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_alex_3"
+      ]
+    },
+    "7": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "alex_mentor_1"
+      ]
+    }
+  }
+}

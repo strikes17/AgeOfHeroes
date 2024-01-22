@@ -1,0 +1,20 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecializationHeroSkill, AgeOfHeroes",
+  "onAlliesBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "specext_alex_hp"
+    ]
+  },
+  "onSelfBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "tierDependent": false,
+  "neighboursLimit": 4,
+  "title": "health",
+  "internalName": "specext_alex_hp",
+  "description": null,
+  "spriteIconPath": "priest_skills+priest_skills_10",
+  "NeighboursCount": 0
+}

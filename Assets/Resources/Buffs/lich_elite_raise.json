@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.LichRessurectBuff, AgeOfHeroes",
+  "healthValue": 45,
+  "changeCharacter": false,
+  "title": "Raise Undead Expert",
+  "internalName": "lich_elite_raise",
+  "description": null,
+  "specialEffectName": "ps_ressurection_1",
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_6",
+  "Active": true
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.CombatEventBuff, AgeOfHeroes",
+  "onAttackPerformedBuffName": "kill",
+  "onAttackRecievedBuffName": null,
+  "isBuffAppliesOnSelf": false,
+  "title": "Event Buff KIll",
+  "internalName": "_event_buff_test",
+  "description": null,
+  "specialEffectName": "sparks",
+  "durationInRounds": 3,
+  "isDispellable": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_6",
+  "Active": true,
+  "RoundsPassed": 0
+}

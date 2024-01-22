@@ -1,0 +1,40 @@
+{
+  "maps": [
+    {
+      "Item1": "aaatest",
+      "Item2": 0
+    },
+    {
+      "Item1": "ANocastles",
+      "Item2": 0
+    },
+    {
+      "Item1": "equality",
+      "Item2": 0
+    },
+    {
+      "Item1": "HugeMap1",
+      "Item2": 0
+    },
+    {
+      "Item1": "hum_castle",
+      "Item2": 0
+    },
+    {
+      "Item1": "menu",
+      "Item2": 0
+    },
+    {
+      "Item1": "Orange",
+      "Item2": 0
+    },
+    {
+      "Item1": "siege",
+      "Item2": 0
+    },
+    {
+      "Item1": "visiontest",
+      "Item2": 0
+    }
+  ]
+}

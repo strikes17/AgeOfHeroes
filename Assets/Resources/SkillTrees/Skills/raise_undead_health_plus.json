@@ -1,0 +1,20 @@
+{
+  "$type": "AgeOfHeroes.ModifyRessurectBuffHeroSkill, AgeOfHeroes",
+  "operation": 1,
+  "value": 100.0,
+  "manaCostMultiplier": 1.0,
+  "cooldownMultiplier": 1.0,
+  "castRangeMultiplier": 1.0,
+  "magicSpellsNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "spec_raise_undead_1",
+      "spec_raise_undead_2",
+      "spec_raise_undead_3"
+    ]
+  },
+  "title": null,
+  "internalName": "raise_undead_health_plus",
+  "description": null,
+  "spriteIconPath": "necro_skills_2+necro_skills_2_8"
+}

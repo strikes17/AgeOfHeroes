@@ -1,0 +1,14 @@
+{
+  "$type": "AgeOfHeroes.Spell.SpellBookObject, AgeOfHeroes",
+  "internalName": "SpellBook",
+  "spells": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "slowness50",
+      "magic_netherpulse_1",
+      "magic_plague_1",
+      "weakness50",
+      "spec_raise_undead_1"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecExtNeighboursLimitModifier, AgeOfHeroes",
+  "newNeighbourLimit": 9,
+  "baseSpecializationInternalName": "spec_alex_1",
+  "title": "Spec Alex N9",
+  "internalName": "specext_alex_n9",
+  "description": null,
+  "spriteIconPath": "stats+cooldown_stat"
+}

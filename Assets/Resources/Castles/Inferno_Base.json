@@ -1,0 +1,41 @@
+{
+  "$type": "AgeOfHeroes.CastleInfo, AgeOfHeroes",
+  "internalName": "Inferno_Base",
+  "Fraction": 3,
+  "Buildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Inf_Imp_1",
+      "Inf_Totem_1",
+      "Inf_Demon_1",
+      "Inf_Gog_1"
+    ]
+  },
+  "IsBuildingBuilt": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "IsBuildingRestricted": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "BuildingLevel": {
+    "$type": "System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+    "$values": [
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

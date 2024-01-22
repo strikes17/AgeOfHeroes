@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.DefenseModifierBuff, AgeOfHeroes",
+  "value": 1.0,
+  "Operation": 1,
+  "title": "Alex defense",
+  "internalName": "spec_alex_defense",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": -1,
+  "isDispellable": false,
+  "stackingEnabled": true,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+defense_stat",
+  "IntegerValue": 1,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

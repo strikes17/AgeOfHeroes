@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: BoneDragon
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Bone Dragon
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: efc8ae92a7076204d96e5407ad4c4107, type: 3}
+  - {fileID: 8300000, guid: 0e686b5954e5a3045b552df38bc1c7ca, type: 3}
+  - {fileID: 8300000, guid: 04c947ffed91b7c4a91e45677447ef05, type: 3}
+  weaponAttackAudioClips: []
+  idleAudioClips:
+  - {fileID: 8300000, guid: 158491bd720ee194f9a5082f8f2b12ee, type: 3}
+  - {fileID: 8300000, guid: fc97c77a9dbd47144bdf149ca1b230e3, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: 067b40f7a50d9da4b8cc9a95356f6b79, type: 3}
+  - {fileID: 8300000, guid: 614c2fd7efb72b9449a4f238090379f6, type: 3}
+  - {fileID: 8300000, guid: 4697173a23e57a6489b5a1c2777dc05b, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 86b925a5a4bde874ebc36cc9f3c631a9, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -200236690, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 6
+  startingMovementPoints: 16
+  startingHealth: 450
+  startingMana: 0
+  damageValue: 50
+  attackValue: 50
+  defenseValue: 30
+  attackRange: 1
+  isFlying: 1
+  canCrossWater: 1
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 100
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 1
+  visionRadius: 12
+  experienceValue: 200
+  goldPrice: 450
+  gemsPrice: 0
+  baseGrowthPerDay: 0.15
+  fullStackCount: 2
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 0}

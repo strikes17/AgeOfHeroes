@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94bee53e8dd34c0c9d54fe79c357beee, type: 3}
+  m_Name: InfernoCastle
+  m_EditorClassIdentifier: 
+  internalName: Inferno_Base
+  castleInfoAsset: {fileID: 4900000, guid: 2a2bc1814c30b4c46a9a10a6a7f251bb, type: 3}
+  fraction: 3
+  defaultStartingTier: 0
+  maxTiers: 4
+  tierSprite:
+  - {fileID: -1325714844, guid: 58f6cc3305168684a86f8f71969007fd, type: 3}
+  - {fileID: -1325714844, guid: 58f6cc3305168684a86f8f71969007fd, type: 3}
+  - {fileID: -1325714844, guid: 58f6cc3305168684a86f8f71969007fd, type: 3}
+  - {fileID: -1325714844, guid: 58f6cc3305168684a86f8f71969007fd, type: 3}
+  - {fileID: -1325714844, guid: 58f6cc3305168684a86f8f71969007fd, type: 3}

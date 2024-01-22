@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa2e65e8c7b4375994434246c53cdc9, type: 3}
+  m_Name: ps_sparks_1
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  fps: 0.05
+  Sprites:
+  - {fileID: 955669454, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: -1811597938, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 438471593, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: -1220596815, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 1055827981, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: -132870180, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: -794532015, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 1678300121, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: -954947064, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 139512967, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 257176763, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}
+  - {fileID: 933275988, guid: 24e955230a06abe4c81a34b267fe25c2, type: 3}

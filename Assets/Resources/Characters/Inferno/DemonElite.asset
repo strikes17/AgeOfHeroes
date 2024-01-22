@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: DemonElite
+  m_EditorClassIdentifier: 
+  Fraction: 3
+  title: Demon
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 23a820eacda401d4ebdd4be1dac603ed, type: 3}
+  - {fileID: 8300000, guid: b6213e56ef5e7c24db726eea5b7cfb37, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: ee2d22ea1cdb72845b1889f9c447c620, type: 3}
+  - {fileID: 8300000, guid: 5e193876a2352024ebebd273a7cea518, type: 3}
+  - {fileID: 8300000, guid: af162b5399cb565428785d1954eb85c3, type: 3}
+  - {fileID: 8300000, guid: bdd87b0acc753ab4794ad96e8f9436a4, type: 3}
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: 789559c468024ca4e8848a7bc61cc085, type: 3}
+  - {fileID: 8300000, guid: 77e3f7ac5f07acd43b4280e9d8d13706, type: 3}
+  - {fileID: 8300000, guid: 2567ba3c5c017ed4fb8bf6278f5b2e21, type: 3}
+  - {fileID: 8300000, guid: 71e674a534aca414dbcd011fa7e27287, type: 3}
+  - {fileID: 8300000, guid: 3bfbd31731f4fe8499c9342fadaefcd4, type: 3}
+  - {fileID: 8300000, guid: 7e4e0a54e37391445b589c72516168d0, type: 3}
+  deathAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 848728857, guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333, type: 3}
+  corpseSprite: {fileID: 1188729675, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 2
+  startingMovementPoints: 4
+  startingHealth: 40
+  startingMana: 0
+  damageValue: 15
+  attackValue: 18
+  defenseValue: 16
+  attackRange: 2
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 2
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 6
+  goldPrice: 18
+  gemsPrice: 0
+  baseGrowthPerDay: 1.75
+  fullStackCount: 12
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

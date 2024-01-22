@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.NecVeilOfDarknessSpecialBuilding, AgeOfHeroes",
+  "Radius": 10,
+  "goldCost": 200,
+  "gemsCost": 1,
+  "fraction": 0,
+  "internalName": "Nec_Veil",
+  "title": "Veil of Darkness",
+  "description": "Hides area on the map",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IconPath": "map_editor_treasures+artifact",
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

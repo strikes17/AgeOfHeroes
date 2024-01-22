@@ -1,0 +1,32 @@
+{
+  "$type": "AgeOfHeroes.Spell.MentorBuff, AgeOfHeroes",
+  "_fromCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ArcherElite",
+      "PikemanElite",
+      "WorkerElite",
+      "SwordsmanElite"
+    ]
+  },
+  "_toCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Pikeman",
+      "Worker",
+      "Swordsman",
+      "Cavalier"
+    ]
+  },
+  "title": "Mentoring",
+  "internalName": "mentor_1",
+  "description": "Upgrades Character To Elite",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_6",
+  "Active": true
+}

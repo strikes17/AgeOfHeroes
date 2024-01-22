@@ -1,0 +1,14 @@
+{
+  "$type": "AgeOfHeroes.SpellLearnHeroSkill, AgeOfHeroes",
+  "magicSpellVariants": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "spec_raise_undead_1"
+    ]
+  },
+  "totalVariantsShown": 1,
+  "title": "Necromancery",
+  "internalName": "spec_necro_1",
+  "description": null,
+  "spriteIconPath": "mantius_skills+mantius_skills_0"
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.AttackModifierBuff, AgeOfHeroes",
+  "value": 5.0,
+  "Operation": 1,
+  "title": "Alex Spec",
+  "internalName": "specext_alex_attack",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": -1,
+  "isDispellable": false,
+  "stackingEnabled": true,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+attack_stat",
+  "IntegerValue": 5,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.RessurectBuff, AgeOfHeroes",
+  "healthValue": 250,
+  "changeCharacter": false,
+  "title": "Ressurection",
+  "internalName": "ressurection1",
+  "description": "affectsAlive: True\r\naffectsUndead: False\r\nchangeCharacter: False\r\nhealthValue: 90\r\nsummonCharacterName: \r\ntitle: Ressurection\r\ninternalName: ressurection1\r\ndescription: \r\nspecialEffectName: \r\ndurationInRounds: 1\r\nbuffUpdateMoment: 0\r\nspriteIconPath: spells+spells_0\r\nspriteIcon: spells_0 (UnityEngine.Sprite)\r\n",
+  "specialEffectName": "ressurection",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_7",
+  "Active": true
+}

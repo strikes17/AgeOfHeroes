@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa2e65e8c7b4375994434246c53cdc9, type: 3}
+  m_Name: ps_reaperelite_1
+  m_EditorClassIdentifier: 
+  Offset: {x: -0.65, y: 0.03}
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  fps: 0.1
+  Sprites:
+  - {fileID: 1752908569, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 1712492868, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -1762905154, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 1600264715, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 471912994, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 665363042, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 1893553007, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -980843585, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -1013136414, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 524469570, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 142655878, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -330030034, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 916238281, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 1062597879, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -472021611, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: -1078813483, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 1021676729, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 244556219, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 72310216, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}
+  - {fileID: 697872997, guid: 656f4ee210453bc43a14c5f87119d3fa, type: 3}

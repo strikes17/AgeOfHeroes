@@ -1,0 +1,15 @@
+{
+  "$type": "AgeOfHeroes.Spell.DevourCharacterBuff, AgeOfHeroes",
+  "healthMultiplier": 0.25,
+  "title": "Feast Corpse",
+  "internalName": "ghoul_feast",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_8",
+  "Active": true
+}

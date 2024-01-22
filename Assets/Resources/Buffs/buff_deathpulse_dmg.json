@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 60,
+  "isLethal": true,
+  "title": "Death Pulse",
+  "internalName": "buff_deathpulse_dmg",
+  "description": null,
+  "specialEffectName": "netherpulse_dmg",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_2",
+  "Active": true
+}

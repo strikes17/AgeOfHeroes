@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94bee53e8dd34c0c9d54fe79c357beee, type: 3}
+  m_Name: HumanCastle
+  m_EditorClassIdentifier: 
+  internalName: Human_Base
+  castleInfoAsset: {fileID: 4900000, guid: 4508e608e9b052e49b1590d0667ef2ac, type: 3}
+  fraction: 1
+  defaultStartingTier: 0
+  maxTiers: 4
+  tierSprite:
+  - {fileID: 1911810410, guid: c6819f86a5298ee41817d1121e905cd9, type: 3}
+  - {fileID: 46597800, guid: c6819f86a5298ee41817d1121e905cd9, type: 3}
+  - {fileID: -991612638, guid: c6819f86a5298ee41817d1121e905cd9, type: 3}
+  - {fileID: -207211055, guid: c6819f86a5298ee41817d1121e905cd9, type: 3}
+  - {fileID: 1453467311, guid: c6819f86a5298ee41817d1121e905cd9, type: 3}

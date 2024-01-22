@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageModifierBuff, AgeOfHeroes",
+  "value": 0.5,
+  "Operation": 0,
+  "title": "amplify_dmg",
+  "internalName": "amplify_dmg200",
+  "description": "amplifies damage x <color=#00FF00>+0.5</color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "artifacts_atlas+artifacts_atlas_2",
+  "IntegerValue": 0,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

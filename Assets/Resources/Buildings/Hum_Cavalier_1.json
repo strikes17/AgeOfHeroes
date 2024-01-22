@@ -1,0 +1,28 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 5,
+  "variant": 2,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": "Hum_Catapult_1",
+  "basicCharacterName": "Cavalier",
+  "eliteCharacterName": "CavalierElite",
+  "upgradeGoldCost": 500,
+  "upgradeGemsCost": 1,
+  "goldCost": 400,
+  "gemsCost": 0,
+  "fraction": 1,
+  "internalName": "Hum_Cavalier_1",
+  "title": "Training Grounds",
+  "description": "level: 1\r\ntier: 5\r\nvariant: 2\r\nbasicCharacterName: Cavalier\r\neliteCharacterName: CavalierElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Hum_Cavalier_1\r\ntitle: Training Grounds\r\ndescription: \r\nisBuilt: False\r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Hum_Gryphon_1",
+      "Hum_Swordsman_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

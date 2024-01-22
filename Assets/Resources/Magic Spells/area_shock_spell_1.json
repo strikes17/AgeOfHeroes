@@ -1,0 +1,41 @@
+{
+  "$type": "AgeOfHeroes.Spell.AreaTargetedMagicSpellObject, AgeOfHeroes",
+  "maxRange": 3,
+  "rangeSlices": 3,
+  "powerReducePerSlice": 0,
+  "powerDependsOnDistance": false,
+  "internalName": "area_shock_spell_1",
+  "title": "Massive Shock Attack",
+  "description": null,
+  "allowedTarget": 147,
+  "castRange": 0,
+  "selfCast": false,
+  "baseCooldown": 0,
+  "baseChargesCount": 0,
+  "baseManaCost": 0,
+  "iconName": "spells+spells_1",
+  "appliedNegativeBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "appliedPositiveBuffsOnCaster": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "dispell01"
+    ]
+  },
+  "appliedNegativeBuffsOnTarget": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "thunderbolt_shock"
+    ]
+  },
+  "affectsOnlyTheseCharacters": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.VisionModifierBuff, AgeOfHeroes",
+  "value": -0.75,
+  "Operation": 0,
+  "title": "Blindness",
+  "internalName": "buff_blind_1",
+  "description": "vision radius reduced x <color=#FF0000><color=#FF0000><color=#FF0000>-0.75</color></color></color> <color=#808080></color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": "blindness",
+  "baseDuration": 2,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_1",
+  "IntegerValue": -1,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

@@ -1,0 +1,12 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecExtensionModifierHeroSkill, AgeOfHeroes",
+  "operationOnSelf": 1,
+  "operationOnAllies": 1,
+  "valueOnSelf": 4.0,
+  "valueOnAllies": 1.0,
+  "baseSpecializationInternalName": "spec_alex_1",
+  "title": "Armored!",
+  "internalName": "specext_armor_alex_1",
+  "description": null,
+  "spriteIconPath": "alexander_skills+alexander_skills_3"
+}

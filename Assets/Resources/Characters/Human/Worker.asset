@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  Fraction: 1
+  title: Engineer
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: 4158f23215353004097614fecd85309e, type: 3}
+  - {fileID: 8300000, guid: ccb4e1a80afed8c44a7cd0e10eadfbe9, type: 3}
+  - {fileID: 8300000, guid: a49e9f28396a1b3438d70690ba7016e6, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: a6a25d16f2eacf0419f35479808f0ea3, type: 3}
+  - {fileID: 8300000, guid: 06e6254d2b1389342ba5ff430e95d2de, type: 3}
+  painAudioClips: []
+  deathAudioClips: []
+  cheerAudioClips:
+  - {fileID: 8300000, guid: d5ba61d38e4816d4897c42a4b8930da2, type: 3}
+  - {fileID: 8300000, guid: 5d80fb1fb6f412d49aa77ad5eac2e4f2, type: 3}
+  - {fileID: 8300000, guid: 8c4b68827228e4a41b0b210c73a280f4, type: 3}
+  - {fileID: 8300000, guid: c0f5870f0ffa9cd459361ea94d40bdf0, type: 3}
+  - {fileID: 8300000, guid: d55ad723cfc2d124f877ffff1f3315fe, type: 3}
+  - {fileID: 8300000, guid: a350ff2e42d882a4282ff7ad8b19e632, type: 3}
+  - {fileID: 8300000, guid: 94dad6591ffc61d49a9f8b955394878f, type: 3}
+  - {fileID: 8300000, guid: 7881be959231cf9469ed844ef252f7e6, type: 3}
+  - {fileID: 8300000, guid: b53ef936be7740b44bdfac8b24e62055, type: 3}
+  - {fileID: 8300000, guid: 8519a36b9cbe5a34c85052c8d53a738d, type: 3}
+  - {fileID: 8300000, guid: b5695b542ec6e374dbac55b5497afb56, type: 3}
+  - {fileID: 8300000, guid: 3c045f416acb9b242a21b176079600e6, type: 3}
+  - {fileID: 8300000, guid: 5fbd1456fd234954b84959620e2459dc, type: 3}
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -408128994, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 710091120, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 3
+  startingMovementPoints: 3
+  startingHealth: 60
+  startingMana: 15
+  damageValue: 10
+  attackValue: 12
+  defenseValue: 12
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 5
+  experienceValue: 8
+  goldPrice: 50
+  gemsPrice: 0
+  baseGrowthPerDay: 0.9
+  fullStackCount: 8
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: a5635cdf71c8c0247962389dac1f7bed, type: 2}

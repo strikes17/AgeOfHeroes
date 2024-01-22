@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: human_castle_ground
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1693580457, guid: 797f61b2d498f374a8e4ef0e0939996e, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: 3019bde5e9b76d54bb2150c5f74c550d, type: 2}
+  - {fileID: 11400000, guid: 643812857add30745b72de3cf751f187, type: 2}
+  - {fileID: 11400000, guid: 055cebd27d6db0748a5d14ca51bc636e, type: 2}
+  - {fileID: 11400000, guid: da0fc5d90744582419dc181648640936, type: 2}
+  MaterialName: 6
+  TileMapType: 0
+  baseMovementPenalty: 0

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: SwordsmanElite
+  m_EditorClassIdentifier: 
+  Fraction: 1
+  title: Holy Knight
+  description: Perfect meele fighter
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 38629e6fc084d73429d3fbaae4c2d72b, type: 3}
+  - {fileID: 8300000, guid: 1af01d7ad36f99542bf3a17fd5eb86dc, type: 3}
+  - {fileID: 8300000, guid: b92481a4788c9694692458778f8de02e, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: f6c57745325a2da4bbc01d6b52fef0e5, type: 3}
+  - {fileID: 8300000, guid: ed85f316d175c0f48bf6bdebd5036b0f, type: 3}
+  - {fileID: 8300000, guid: f7a9c80eec348f04fb0cbee6de33fa4c, type: 3}
+  - {fileID: 8300000, guid: 45d6873856f430845ab33063a7596861, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: 095f9d6b22b680644bf9326c539f52c6, type: 3}
+  - {fileID: 8300000, guid: 8b0fa425e90180b41a852ab145fddaad, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: c49ebf2fab31a8346a1502b9cc09e141, type: 3}
+  - {fileID: 8300000, guid: b803b991cb0b0904c9f89a6684f4e1ca, type: 3}
+  - {fileID: 8300000, guid: c35043869e4f7c84384d322360f6aadc, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: e04cfc05047f6aa4fbc371e4f63e585c, type: 3}
+  - {fileID: 8300000, guid: 7c4ca9c934b4b714e892821ee55076c9, type: 3}
+  cheerAudioClips:
+  - {fileID: 8300000, guid: d5ba61d38e4816d4897c42a4b8930da2, type: 3}
+  - {fileID: 8300000, guid: 5d80fb1fb6f412d49aa77ad5eac2e4f2, type: 3}
+  - {fileID: 8300000, guid: 8c4b68827228e4a41b0b210c73a280f4, type: 3}
+  - {fileID: 8300000, guid: c0f5870f0ffa9cd459361ea94d40bdf0, type: 3}
+  - {fileID: 8300000, guid: d55ad723cfc2d124f877ffff1f3315fe, type: 3}
+  - {fileID: 8300000, guid: a350ff2e42d882a4282ff7ad8b19e632, type: 3}
+  - {fileID: 8300000, guid: 94dad6591ffc61d49a9f8b955394878f, type: 3}
+  - {fileID: 8300000, guid: 7881be959231cf9469ed844ef252f7e6, type: 3}
+  - {fileID: 8300000, guid: b53ef936be7740b44bdfac8b24e62055, type: 3}
+  - {fileID: 8300000, guid: 8519a36b9cbe5a34c85052c8d53a738d, type: 3}
+  - {fileID: 8300000, guid: b5695b542ec6e374dbac55b5497afb56, type: 3}
+  - {fileID: 8300000, guid: 3c045f416acb9b242a21b176079600e6, type: 3}
+  - {fileID: 8300000, guid: 5fbd1456fd234954b84959620e2459dc, type: 3}
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames:
+  - double_attack
+  - prev_retal
+  spellBookInternalName: HealSpellBook
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 226719654, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 633604472, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 4
+  startingMovementPoints: 5
+  startingHealth: 120
+  startingMana: 0
+  damageValue: 22
+  attackValue: 25
+  defenseValue: 25
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 5
+  experienceValue: 35
+  goldPrice: 110
+  gemsPrice: 0
+  baseGrowthPerDay: 0.75
+  fullStackCount: 9
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

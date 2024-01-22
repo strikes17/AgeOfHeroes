@@ -1,0 +1,11 @@
+{
+  "$type": "AgeOfHeroes.Spell.SpellBookObject, AgeOfHeroes",
+  "internalName": "LichElite_SpellBook",
+  "spells": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "lichelite_frostblast",
+      "lich_elite_raise"
+    ]
+  }
+}

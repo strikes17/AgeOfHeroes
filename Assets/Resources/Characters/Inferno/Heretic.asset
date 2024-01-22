@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Heretic
+  m_EditorClassIdentifier: 
+  Fraction: 3
+  title: Keeper
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips: []
+  deathAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -603313366, guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333, type: 3}
+  corpseSprite: {fileID: -891020442, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 4
+  startingMovementPoints: 4
+  startingHealth: 90
+  startingMana: 0
+  damageValue: 18
+  attackValue: 20
+  defenseValue: 20
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 7
+  goldPrice: 50
+  gemsPrice: 0
+  baseGrowthPerDay: 0.6
+  fullStackCount: 6
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: f93deedff5f572c408fd50543ab41988, type: 2}

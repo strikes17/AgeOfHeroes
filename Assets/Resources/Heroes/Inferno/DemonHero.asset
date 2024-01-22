@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f2771d532b94d7dbbc8bcc80cab103a, type: 3}
+  m_Name: DemonHero
+  m_EditorClassIdentifier: 
+  Fraction: 3
+  title: Surgeous
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: b803b991cb0b0904c9f89a6684f4e1ca, type: 3}
+  deathAudioClips: []
+  cheerAudioClips: []
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames: []
+  spellBookInternalName: Alexander
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 380451400, guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 1
+  startingMovementPoints: 3
+  startingHealth: 500
+  startingMana: 50
+  damageValue: 20
+  attackValue: 20
+  defenseValue: 40
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 8000000010000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 6
+  experienceValue: 0
+  portraitIcon: {fileID: 2052027698, guid: c9fb1570fe112b14283da31980bbb79a, type: 3}
+  personalName: Alexander
+  skillTreeObjectName: Alexander_Tree
+  maxLevel: 6
+  experiencePerLevel: 0000000064000000c80000009001000084030000b0040000dc050000d007000098080000c4090000

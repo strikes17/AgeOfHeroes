@@ -1,0 +1,19 @@
+{
+    "name": "AgeOfHeroes",
+    "rootNamespace": "",
+    "references": [
+        "GUID:91de482a0a233614ab5962ea5f6c24ee",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:d24e900b7f4c0f14c816d3ea94ad84ec",
+        "GUID:30817c1a0e6d646d99c048fc403f5979"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

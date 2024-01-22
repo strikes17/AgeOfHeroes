@@ -1,0 +1,89 @@
+{
+  "$type": "AgeOfHeroes.CastleInfo, AgeOfHeroes",
+  "internalName": "Undead_Base",
+  "Fraction": 2,
+  "Buildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Und_Skeleton_1",
+      "Und_Whisper_1",
+      "Und_Ghoul_1",
+      "Und_Garghoule_1",
+      "Und_Ghost_1",
+      "Und_Mummie_1",
+      "Und_Vampire_1",
+      "Und_Lich_1",
+      "Und_DeathKnight_1",
+      "Und_Reaper_1",
+      "Und_BoneDragon_1",
+      "ALL_Castle_Tier_Upgrade_2",
+      "ALL_Castle_Tier_Upgrade_3",
+      "ALL_Castle_Tier_Upgrade_4",
+      "ALL_Castle_Tier_Upgrade_5",
+      "ALL_Castle_Tier_Upgrade"
+    ]
+  },
+  "IsBuildingBuilt": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "IsBuildingRestricted": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "BuildingLevel": {
+    "$type": "System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+    "$values": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

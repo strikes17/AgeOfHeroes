@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 30,
+  "isLethal": true,
+  "title": "Thunderbolt Damage",
+  "internalName": "thunderbolt_novice_buff",
+  "description": "value: 30\r\nisLethal: True\r\ntitle: Thunderbolt Damage\r\ninternalName: thunderbolt_novice_buff\r\ndescription: \r\ndurationInRounds: 1\r\n",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_1",
+  "Active": true
+}

@@ -1,0 +1,14 @@
+{
+  "TerrainTileObjects": [
+    "dirt_rocky01",
+    "grass01",
+    "ground_overlay",
+    "human_castle_ground",
+    "human_castle_walls",
+    "rocks",
+    "snow01",
+    "tool",
+    "trees",
+    "Water"
+  ]
+}

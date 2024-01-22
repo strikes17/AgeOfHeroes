@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: LichElite
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Frozen Liches
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: baea4dc3e3cf1cc4b97c62dd6937968a, type: 3}
+  - {fileID: 8300000, guid: 1f289a6ab4c745a4a9556f016a915e15, type: 3}
+  - {fileID: 8300000, guid: 60c741651e2a4524298658a8e0f8feac, type: 3}
+  weaponAttackAudioClips: []
+  idleAudioClips:
+  - {fileID: 8300000, guid: 2b32d692c81e2e54490e5d1cebeab777, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: 59c81873974692548a78c655e818f3f7, type: 3}
+  - {fileID: 8300000, guid: 228263d387df6c046afcea275bc4da34, type: 3}
+  - {fileID: 8300000, guid: 872dc6e0b822c0a43836a7ec6aa99798, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 33865258af78b6b42818667b1c373e31, type: 3}
+  cheerAudioClips: []
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames: []
+  spellBookInternalName: LichElite_SpellBook
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 219822486, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 4
+  startingMovementPoints: 2
+  startingHealth: 60
+  startingMana: 30
+  damageValue: 22
+  attackValue: 20
+  defenseValue: 20
+  attackRange: 8
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 1
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 1
+  persona: 20000000
+  shoots: 18
+  isHuge: 0
+  visionRadius: 6
+  experienceValue: 40
+  goldPrice: 150
+  gemsPrice: 0
+  baseGrowthPerDay: 0.85
+  fullStackCount: 8
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

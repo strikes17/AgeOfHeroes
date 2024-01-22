@@ -1,0 +1,37 @@
+﻿Castle
+            terrainManager.WorldTerrainReady += (map) =>
+            {
+                // Player.fogOfWarController.UpdateVisionAtAreaForPlayer(Player, Position,
+                //     map,
+                //     GlobalVariables.CastleVisionValue, true);
+                Tier = 0;
+                Player.fogOfWarController.ClearDeepFogOfWarEverywhereReserved(_castleTerrain, Player);
+            };
+            
+player
+_terrainManager.WorldTerrainReady += (map) =>
+            {
+                _fogOfWarController.InitWorldTerrainFog(this, map);
+                ActiveTerrain = map;
+                OpenedFogDictionary.TryAdd(ActiveTerrain, new List<Vector3Int>());
+                if (Color == PlayerColor.Neutral) return;
+
+                var castlesTerrainsValues =
+                    GameManager.Instance.terrainManager.CurrentPlayableMap.CastlesTerrains.Values;
+                foreach (var castleTerrain in castlesTerrainsValues)
+                {
+                    OpenedFogDictionary.TryAdd(castleTerrain, new List<Vector3Int>());
+                }
+            };
+            
+gameManager
+Loaded += () =>
+            {
+                _matchInfo = GameObject.FindObjectOfType<MatchInfo>();
+                MapScenarioHandler.SpawnPlayers();
+                terrainManager.WorldTerrainReady += (map) => MapScenarioHandler.NewGameInitialization();
+                terrainManager.LoadWorldMap(_matchInfo);
+            };
+            
+fogofwarcontroller
+terrainManager.WorldTerrainReady += terrain => { _tilemap = terrainManager.FogOfWarTilemap; };

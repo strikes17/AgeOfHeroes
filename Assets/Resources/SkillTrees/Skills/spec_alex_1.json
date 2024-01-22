@@ -1,0 +1,20 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecializationHeroSkill, AgeOfHeroes",
+  "onAlliesBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "onSelfBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "spec_alex_defense"
+    ]
+  },
+  "tierDependent": true,
+  "neighboursLimit": 3,
+  "title": "Spec",
+  "internalName": "spec_alex_1",
+  "description": null,
+  "spriteIconPath": "alexander_skills+alexander_skills_2",
+  "NeighboursCount": 0
+}

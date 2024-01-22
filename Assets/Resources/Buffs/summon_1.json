@@ -1,0 +1,17 @@
+{
+  "$type": "AgeOfHeroes.Spell.SummonBuff, AgeOfHeroes",
+  "healthValue": 300,
+  "summonFraction": 2,
+  "summonCharacterName": "Reaper",
+  "title": "Summon Skeletons",
+  "internalName": "summon_1",
+  "description": "healthValue: 300\r\nsummonCharacterName: Skeleton\r\nsummonCharacterObject: \r\nplayerSummoner: Red\r\nposition: (0.00, 0.00, 0.00)\r\ntitle: Summon Skeletons\r\ninternalName: summon_1\r\ndescription: \r\nspecialEffectName: \r\ndurationInRounds: 1\r\nbuffUpdateMoment: 0\r\nspriteIconPath: characters_final+characters_final_0\r\nspriteIcon: characters_final_0 (UnityEngine.Sprite)\r\n",
+  "specialEffectName": null,
+  "durationInRounds": 1,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_2",
+  "Active": true,
+  "RoundsPassed": 0
+}

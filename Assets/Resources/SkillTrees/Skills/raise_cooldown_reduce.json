@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.ModifySpellHeroSkill, AgeOfHeroes",
+  "manaCostMultiplier": 1.0,
+  "cooldownMultiplier": 0.5,
+  "castRangeMultiplier": 2.0,
+  "magicSpellsNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "spec_raise_undead_1",
+      "spec_raise_undead_2",
+      "spec_raise_undead_3"
+    ]
+  },
+  "title": null,
+  "internalName": "raise_cooldown_reduce",
+  "description": null,
+  "spriteIconPath": "necro_skills_2+necro_skills_2_27"
+}

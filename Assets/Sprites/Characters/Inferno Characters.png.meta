@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 3a5a6720b5b766f4a9f0f8f4a2f6a333
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inferno Characters_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d32deb987b83648b24c654b81b98b7
+      internalID: 1449431173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inferno_char
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 222
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.43020213, y: 0.49015692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090c0cbcc8b6284994ebf983bf9f718
+      internalID: -1481406630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 222
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47091815, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e52f97a4dcf4458d9198bb407e565
+      internalID: -1078210951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58c3e3ddb8f3d448b0e93badf842d5
+      internalID: 214748010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 220
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45432281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe8faa176cd544d8cc6a1d0a046dd8
+      internalID: 303893559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 220
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45360947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a439017c33712f041ad0f24b1b51a58c
+      internalID: -1400955683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 202
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.48651734, y: 0.31074855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc4538c0c82554da0229357faeb54c
+      internalID: 163227248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1c3e85472dac4295a7ecd92bf52de
+      internalID: 526687382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imp
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 222
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1795ad84a3dddd4f9a0f871aeb52a30
+      internalID: 1833249966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gog
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 222
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22851a5e6d36f474d960ebe035c3cb66
+      internalID: 877208766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gog_elite
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 222
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc7a7d003f25041800b3e525684fcb
+      internalID: 1296422392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerb
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 222
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3483de086e2d4b9c0e853ce61d459
+      internalID: -51428712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerb_elite
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 222
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.4332375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392749e94fb6e6f48af6cfadcb5931f1
+      internalID: -830183937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 202
+        width: 37
+        height: 38
+      alignment: 9
+      pivot: {x: 0.48610377, y: 0.30442128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fefef71cf453c409b35f423329349b
+      internalID: 1890272260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 186
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0006b0e94b7d43a20edea5a7c936a
+      internalID: -2105456159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45c487136deb364cb2a4972935222fa
+      internalID: -972841990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 186
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe688060852a8b4fb17d4040963e7a4
+      internalID: -1669678452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imp_elite
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1dd694c7793d246a732afdf4ee42f3
+      internalID: 1978315282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 187
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c35e216d253a9469466268e0b7ee4b
+      internalID: 330941359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 187
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12ffdd13a8d354eb44a2296f00f805
+      internalID: 848728857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 186
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d522dc49c85b4ab0af294f08e99f3
+      internalID: -603313366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 184
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381011826f9abc45b253d4c8bc42390
+      internalID: 1250718023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 142
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682bf91311dab3b4b96b47e457538cf9
+      internalID: -1511994403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferno Characters_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 142
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556a39c9202bda489dc85600edf6cd5
+      internalID: 380451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Inferno Characters_1: 1449431173
+      Inferno Characters_27: 1497487571
+      Inferno Characters_0: 63734428
+      Inferno Characters_14: 1890272260
+      Inferno Characters_15: -2105456159
+      inferno_char: -1481406630
+      Inferno Characters_21: 848728857
+      Inferno Characters_8: 526687382
+      Inferno Characters_3: -1078210951
+      imp: 1833249966
+      Inferno Characters_23: 1250718023
+      Inferno Characters_32: -133692949
+      Inferno Characters_35: -1963089276
+      Inferno Characters_17: 1317780906
+      Inferno Characters_26: -1781041682
+      Inferno Characters_25: -1580337279
+      Inferno Characters_4: 214748010
+      Inferno Characters_20: 330941359
+      cerb: -51428712
+      Inferno Characters_16: -972841990
+      Inferno Characters_29: 380451400
+      imp_elite: 1978315282
+      Inferno Characters_33: -235076410
+      cerb_elite: -830183937
+      Inferno Characters_30: 737715339
+      Inferno Characters_31: 1215763410
+      gog_elite: 1296422392
+      Inferno Characters_7: 163227248
+      Inferno Characters_24: 478808544
+      Inferno Characters_18: -1669678452
+      Inferno Characters_6: -1400955683
+      Inferno Characters_5: 303893559
+      Inferno Characters_22: -603313366
+      Inferno Characters_28: -1511994403
+      Inferno Characters_34: -1071440174
+      gog: 877208766
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

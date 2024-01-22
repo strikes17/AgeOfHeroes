@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: AngelElite
+  m_EditorClassIdentifier: 
+  Fraction: 1
+  title: Archangel
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips: []
+  deathAudioClips: []
+  cheerAudioClips: []
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 1622547608, guid: 07db84078bc545b4884d0234476a254c, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 6
+  startingMovementPoints: 15
+  startingHealth: 860
+  startingMana: 50
+  damageValue: 90
+  attackValue: 60
+  defenseValue: 40
+  attackRange: 1
+  isFlying: 1
+  canCrossWater: 1
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 0
+  isHuge: 1
+  visionRadius: 15
+  experienceValue: 300
+  goldPrice: 700
+  gemsPrice: 1
+  baseGrowthPerDay: 0.15
+  fullStackCount: 2
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageModifierBuff, AgeOfHeroes",
+  "value": -0.5,
+  "Operation": 0,
+  "title": "weakness_50",
+  "internalName": "weakness_50",
+  "description": "value: 0\r\ntitle: amplify_dmg\r\ninternalName: amplify_dmg200\r\ndescription: \r\nspecialEffectName: \r\ndurationInRounds: 3\r\nbuffUpdateMoment: 0\r\n",
+  "specialEffectName": null,
+  "baseDuration": 4,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_0",
+  "IntegerValue": 0,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.Spell.ExplosionBuff, AgeOfHeroes",
+  "radius": 1,
+  "baseDamage": 25,
+  "damagePerCaster": 30,
+  "_appliedBuffOnTargetsName": "lichelite_explosion",
+  "title": "Frost Blast",
+  "internalName": "lichelite_frostblast",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_3",
+  "Active": true
+}

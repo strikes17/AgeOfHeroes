@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa2e65e8c7b4375994434246c53cdc9, type: 3}
+  m_Name: ps_netherpulse_dmg
+  m_EditorClassIdentifier: 
+  Color: {r: 1, g: 1, b: 1, a: 1}
+  fps: 0.05
+  Sprites:
+  - {fileID: 1266042488, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: 138173566, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: -1756700559, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: 1469643863, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: -1548208664, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: 1301142304, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: 1406758296, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}
+  - {fileID: -1579910046, guid: d05b521eb93ad854790f4996acfad0fa, type: 3}

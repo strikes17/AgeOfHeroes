@@ -1,0 +1,49 @@
+{
+  "$type": "AgeOfHeroes.HeroSkillTreeObject, AgeOfHeroes",
+  "internalName": "Mantius_Tree",
+  "HeroSkills": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib]], mscorlib",
+    "1": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_necro_1"
+      ]
+    },
+    "2": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "magic_1",
+        "raise_undead_manacost_remove",
+        "raise_undead_health_plus"
+      ]
+    },
+    "3": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "magic_2",
+        "magic_2",
+        "raise_bonus_recover"
+      ]
+    },
+    "4": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_necro_2"
+      ]
+    },
+    "5": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "raise_cooldown_reduce",
+        "magic_2",
+        "raise_undead_health_plus"
+      ]
+    },
+    "6": {
+      "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+      "$values": [
+        "spec_necro_3"
+      ]
+    }
+  }
+}

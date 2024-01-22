@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 12,
+  "isLethal": true,
+  "title": "fire_damage12",
+  "internalName": "fire_damage12",
+  "description": "Damages unit every round for <color=#FF0000>-12</color> health <color=#808080>(Dispellable)</color>",
+  "specialEffectName": "fire",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_1",
+  "Active": true
+}

@@ -1,0 +1,89 @@
+{
+  "$type": "AgeOfHeroes.CastleInfo, AgeOfHeroes",
+  "internalName": "Human_Base",
+  "Fraction": 1,
+  "Buildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Hum_Archery_1",
+      "Hum_Peasant_1",
+      "Hum_Pikeman_1",
+      "Hum_Ballista_1",
+      "Hum_Worker_1",
+      "Hum_Monk_1",
+      "Hum_Gryphon_1",
+      "Hum_Swordsman_1",
+      "Hum_Catapult_1",
+      "Hum_Cavalier_1",
+      "Hum_Angel_1",
+      "ALL_Castle_Tier_Upgrade_2",
+      "ALL_Castle_Tier_Upgrade_3",
+      "ALL_Castle_Tier_Upgrade_4",
+      "ALL_Castle_Tier_Upgrade_5",
+      "ALL_Castle_Tier_Upgrade"
+    ]
+  },
+  "IsBuildingBuilt": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "IsBuildingRestricted": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "BuildingLevel": {
+    "$type": "System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+    "$values": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: Snow01
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -2051002485, guid: 63a9a8d5197a7ed47b72d0e912be732e, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: 477430f24fd3c5049b522124b674f1d1, type: 2}
+  - {fileID: 11400000, guid: c0120f39ef8b92c48bf4aa99f67d05d0, type: 2}
+  - {fileID: 11400000, guid: 16459520cbc7f5944bd9e6c9d28b7e69, type: 2}
+  - {fileID: 11400000, guid: 69d5c9376e8de9b4bb462469df82b0ac, type: 2}
+  - {fileID: 11400000, guid: c6e58eda08da40b4a9ff0111de828b1f, type: 2}
+  - {fileID: 11400000, guid: 6f14fcbde6c49c2458f79a4d09704aa5, type: 2}
+  - {fileID: 11400000, guid: 5d43fe40a88ddaa4fb12df6a7994ff78, type: 2}
+  - {fileID: 11400000, guid: 96baca6718c8559439cdd41e367c2bad, type: 2}
+  - {fileID: 11400000, guid: 40a04777f3dffae42ae45ee4cc86317f, type: 2}
+  - {fileID: 11400000, guid: 7bd8b50d5b4a11e4baf1a9414383eeec, type: 2}
+  - {fileID: 11400000, guid: ceb3fe46efbdba34fbed02d3d7626850, type: 2}
+  - {fileID: 11400000, guid: dc86d876b2af2a14585335acdab58e29, type: 2}
+  - {fileID: 11400000, guid: 1dd994af78a1da9408a665bca87af647, type: 2}
+  MaterialName: 1
+  TileMapType: 0
+  baseMovementPenalty: 0

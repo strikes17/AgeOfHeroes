@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8bd665fc561634888f93bfaa950484, type: 3}
+  m_Name: plague
+  m_EditorClassIdentifier: 
+  onBuffAppliedAudioClip: {fileID: 8300000, guid: 8b69cbbde9fb36a4ca8fde7973e4a7e5, type: 3}
+  onBuffUpdateAudioClip: {fileID: 0}
+  onBuffExpiredAudioClip: {fileID: 0}
+  onBuffAppliedSpriteSequnce: {fileID: 11400000, guid: ecd45b2d609fdf14b9c75fd4c19afda4, type: 2}
+  onBuffUpdateSpriteSequenceObject: {fileID: 11400000, guid: 55894be29ea9b674584de45242684a13, type: 2}
+  onBuffExpiredSpriteSequenceObject: {fileID: 0}
+  onBuffAppliedEffectCycles: 1
+  onBuffUpdateEffectCycles: 1
+  onBuffExpiredEffectCycles: 1

@@ -1,0 +1,17 @@
+{
+  "$type": "AgeOfHeroes.Spell.SplashAttackBuff, AgeOfHeroes",
+  "onAttackPerformedBuffName": "buff_sparks_dmg_1",
+  "onAttackRecievedBuffName": null,
+  "isBuffAppliesOnSelf": false,
+  "title": "Sparks",
+  "internalName": "buff_sparks_1",
+  "description": null,
+  "specialEffectName": "sparks",
+  "baseDuration": 4,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_9",
+  "Active": true
+}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87d584867a184cf5871c98482f290af5, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 1600006212, guid: 1317530de1c393047953a7716cb19e87, type: 3}
+  Tiles:
+  - {fileID: 11400000, guid: ec7968526d97a1547bd2531385afac38, type: 2}
+  - {fileID: 11400000, guid: 44ec934e2fa97ac4ea7e2b2803b0a526, type: 2}
+  MaterialName: 5
+  TileMapType: 6
+  baseMovementPenalty: 0

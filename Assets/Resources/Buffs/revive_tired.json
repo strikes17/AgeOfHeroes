@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.MovementSpeedModifierBuff, AgeOfHeroes",
+  "value": -1.0,
+  "Operation": 0,
+  "title": "Tired",
+  "internalName": "revive_tired",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": 7,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_3",
+  "IntegerValue": -1,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

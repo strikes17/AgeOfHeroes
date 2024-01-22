@@ -1,0 +1,21 @@
+{
+  "$type": "AgeOfHeroes.CastleInfo, AgeOfHeroes",
+  "internalName": "Undefined_Base",
+  "Fraction": 5,
+  "Buildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IsBuildingBuilt": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IsBuildingRestricted": {
+    "$type": "System.Collections.Generic.List`1[[System.Boolean, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "BuildingLevel": {
+    "$type": "System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+    "$values": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.CombatEventBuff, AgeOfHeroes",
+  "onAttackPerformedBuffName": "",
+  "onAttackRecievedBuffName": "attack10",
+  "isBuffAppliesOnSelf": true,
+  "title": "Event Buff Recieve",
+  "internalName": "_event_buff_test_2",
+  "description": null,
+  "specialEffectName": "sparks",
+  "durationInRounds": 3,
+  "isDispellable": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_4",
+  "Active": true,
+  "RoundsPassed": 0
+}

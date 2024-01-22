@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Mummie
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Mummies
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 1769cb8c906a3b04395c1aa65db992fb, type: 3}
+  - {fileID: 8300000, guid: 0af27387fbf00424c94172927f70713a, type: 3}
+  - {fileID: 8300000, guid: 6f66a3d302f146b45bb82ea8085185a7, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: ccb4e1a80afed8c44a7cd0e10eadfbe9, type: 3}
+  - {fileID: 8300000, guid: a49e9f28396a1b3438d70690ba7016e6, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: ad8f656d0f0277d45ba433cd11576bec, type: 3}
+  - {fileID: 8300000, guid: 2b4b1f04994c22e48ad8ce056bdb1088, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: 144d8a82926dae347940acb63a8dd156, type: 3}
+  - {fileID: 8300000, guid: 453f47e2f92d6b546b5ecf3bf2edfa12, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 885186e6a0e2f8e4fbf05732cf8fb26d, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -404693679, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 3
+  startingMovementPoints: 3
+  startingHealth: 60
+  startingMana: 0
+  damageValue: 12
+  attackValue: 10
+  defenseValue: 10
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 3
+  experienceValue: 8
+  goldPrice: 15
+  gemsPrice: 0
+  baseGrowthPerDay: 1.5
+  fullStackCount: 15
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: d83653af41a461f458fcd2842a3402dd, type: 2}

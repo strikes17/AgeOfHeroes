@@ -1,0 +1,27 @@
+{
+  "$type": "AgeOfHeroes.Spell.SummonRessurectBuff, AgeOfHeroes",
+  "changeCharacter": true,
+  "summonVariants": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Skeleton",
+      "Ghost",
+      "Mummie",
+      "GhostElite",
+      "MummieElite"
+    ]
+  },
+  "selectedVariantOrRandom": -1,
+  "healthValue": 200,
+  "title": "Necromancery",
+  "internalName": "spec_mantius_raise_3",
+  "description": null,
+  "specialEffectName": "ressurection",
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "mantius_skills+mantius_skills_2",
+  "Active": true
+}

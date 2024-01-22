@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 0,
+  "isLethal": true,
+  "title": "Freeze Explosion",
+  "internalName": "lichelite_explosion",
+  "description": null,
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "savingState": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_3",
+  "Active": true
+}

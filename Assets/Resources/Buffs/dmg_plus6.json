@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.Spell.DamageBuff, AgeOfHeroes",
+  "value": 6,
+  "isLethal": true,
+  "title": "Power",
+  "internalName": "dmg_plus6",
+  "description": "value: 6\r\nisLethal: True\r\ntitle: Power\r\ninternalName: dmg_plus6\r\ndescription: \r\nspecialEffectName: \r\ndurationInRounds: 4\r\nbuffUpdateMoment: 0\r\nspriteIconPath: spells+spells_1\r\nspriteIcon: spells_1 (UnityEngine.Sprite)\r\n",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_1",
+  "Active": true
+}

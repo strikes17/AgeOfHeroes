@@ -1,0 +1,16 @@
+{
+  "$type": "AgeOfHeroes.BonusSpellCastHeroSkill, AgeOfHeroes",
+  "chance": 50.0,
+  "healthValue": 25,
+  "manaValue": 10,
+  "cooldownReduce": 1,
+  "anySpell": true,
+  "spellsNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "title": null,
+  "internalName": "raise_bonus_recover",
+  "description": null,
+  "spriteIconPath": "necro_skills+necro_skills_8"
+}

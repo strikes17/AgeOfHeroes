@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Ghosts
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: b23409fed1e4f894194dd9ea8ad7d48c, type: 3}
+  - {fileID: 8300000, guid: 565f24d2c680c4c4699bbb6c8266c53f, type: 3}
+  - {fileID: 8300000, guid: 8d283faf2388eab49a00622845082f09, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: af449aeb848928d499b06387d7390a7a, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: 3a439ee4c11e1544ca855b7216bfc709, type: 3}
+  - {fileID: 8300000, guid: 35c44fe8ceb64ec44b5db75fb17f85bd, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: 3cfb04b5e6361294b85dca76c2265b7e, type: 3}
+  - {fileID: 8300000, guid: 7e7c7b4ff01ecb94781c647078ce889d, type: 3}
+  - {fileID: 8300000, guid: 77c2ea19204f660439cd9d716d8500eb, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 05f784640c5b7fb4a8652dcfe8e448eb, type: 3}
+  cheerAudioClips: []
+  IdleSpriteAnimation: {fileID: 0}
+  ShootAnimation: {fileID: 0}
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -1756227857, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 3
+  startingMovementPoints: 6
+  startingHealth: 35
+  startingMana: 15
+  damageValue: 12
+  attackValue: 15
+  defenseValue: 6
+  attackRange: 1
+  isFlying: 1
+  canCrossWater: 1
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 5
+  experienceValue: 10
+  goldPrice: 18
+  gemsPrice: 0
+  baseGrowthPerDay: 1.2
+  fullStackCount: 10
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: 2fc44a81f37e5194db0b4f44d0532bd1, type: 2}

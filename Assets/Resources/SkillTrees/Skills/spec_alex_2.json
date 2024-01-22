@@ -1,0 +1,14 @@
+{
+  "$type": "AgeOfHeroes.AuraSpecExtCombined, AgeOfHeroes",
+  "extensionsToCombine": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "specext_alex_n6"
+    ]
+  },
+  "baseSpecializationInternalName": "spec_alex_1",
+  "title": "Spec Alex 2",
+  "internalName": "spec_alex_2",
+  "description": null,
+  "spriteIconPath": "alexander_skills+alexander_skills_1"
+}

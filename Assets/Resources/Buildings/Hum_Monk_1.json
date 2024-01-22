@@ -1,0 +1,28 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 3,
+  "variant": 2,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": "Hum_Worker_1",
+  "basicCharacterName": "Monk",
+  "eliteCharacterName": "MonkElite",
+  "upgradeGoldCost": 250,
+  "upgradeGemsCost": 1,
+  "goldCost": 200,
+  "gemsCost": 0,
+  "fraction": 1,
+  "internalName": "Hum_Monk_1",
+  "title": "Monastery",
+  "description": "level: 1\r\ntier: 3\r\nvariant: 2\r\nbasicCharacterName: Monk\r\neliteCharacterName: MonkElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Hum_Monk_1\r\ntitle: Monastery\r\ndescription: \r\nisBuilt: False\r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Hum_Pikeman_1",
+      "Hum_Ballista_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

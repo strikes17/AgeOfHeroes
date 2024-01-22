@@ -1,0 +1,10 @@
+{
+  "$type": "AgeOfHeroes.DoubleAttackAbility, AgeOfHeroes",
+  "performedOnRetilation": false,
+  "spriteIconPath": "stats+attacks_stat",
+  "combatAbilityType": 1,
+  "combatAbilityOrder": 0,
+  "description": null,
+  "title": "Double Attack",
+  "internalName": "double_attack"
+}

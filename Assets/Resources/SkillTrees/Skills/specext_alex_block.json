@@ -1,0 +1,13 @@
+{
+  "$type": "AgeOfHeroes.HeroSkillBuff, AgeOfHeroes",
+  "onSelfBuffNames": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "specext_alex_block"
+    ]
+  },
+  "title": "Hero block",
+  "internalName": "specext_alex_block",
+  "description": null,
+  "spriteIconPath": "priest_skills+priest_skills_22"
+}

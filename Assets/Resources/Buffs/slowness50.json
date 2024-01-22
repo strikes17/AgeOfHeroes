@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.MovementSpeedModifierBuff, AgeOfHeroes",
+  "value": -3.0,
+  "Operation": 1,
+  "title": "Slowness",
+  "internalName": "slowness50",
+  "description": "Total movement points reduced x <color=#FF0000>-0.5</color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": "ressurection",
+  "baseDuration": 2,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_8",
+  "IntegerValue": -3,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

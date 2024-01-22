@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: VampireElite
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Draculas
+  description: 
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: af449aeb848928d499b06387d7390a7a, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: d78b030f20ff4864e9f52b0b8ac905c2, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: e8d4456fd7582cb4d840158e7e7dab83, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 8e31f13d32ece26419ee813ff9097389, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames:
+  - vamp
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 110518305, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 4
+  startingMovementPoints: 9
+  startingHealth: 80
+  startingMana: 0
+  damageValue: 20
+  attackValue: 25
+  defenseValue: 16
+  attackRange: 1
+  isFlying: 1
+  canCrossWater: 1
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 2
+  retilationsCount: 100
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 6
+  experienceValue: 40
+  goldPrice: 110
+  gemsPrice: 0
+  baseGrowthPerDay: 1.1
+  fullStackCount: 11
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

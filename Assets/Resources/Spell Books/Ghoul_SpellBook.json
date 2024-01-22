@@ -1,0 +1,10 @@
+{
+  "$type": "AgeOfHeroes.Spell.SpellBookObject, AgeOfHeroes",
+  "internalName": "Ghoul_SpellBook",
+  "spells": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "ghoul_feast"
+    ]
+  }
+}

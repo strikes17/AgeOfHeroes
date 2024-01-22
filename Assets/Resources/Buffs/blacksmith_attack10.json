@@ -1,0 +1,18 @@
+{
+  "$type": "AgeOfHeroes.Spell.AttackModifierBuff, AgeOfHeroes",
+  "value": 10.0,
+  "Operation": 1,
+  "title": "Sharpened",
+  "internalName": "blacksmith_attack10",
+  "description": "increases attack by <color=#00FF00><color=#00FF00>+10</color></color> <color=#FFEB04>(Not Dispellable)</color>",
+  "specialEffectName": null,
+  "durationInRounds": -1,
+  "isDispellable": false,
+  "stackingEnabled": false,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+attack_stat",
+  "IntegerValue": 10,
+  "BaseValue": 0.0,
+  "Active": true,
+  "RoundsPassed": 0
+}

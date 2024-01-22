@@ -1,0 +1,25 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 1,
+  "variant": 2,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": null,
+  "basicCharacterName": "Whispers",
+  "eliteCharacterName": "WhispersElite",
+  "upgradeGoldCost": 200,
+  "upgradeGemsCost": 1,
+  "goldCost": 75,
+  "gemsCost": 0,
+  "fraction": 2,
+  "internalName": "Und_Whisper_1",
+  "title": "Pit of Malice",
+  "description": "tier: 1\r\nvariant: 2\r\nrecruitmentsAvailable: 0\r\nblockedByBuildingName: \r\nbasicCharacterName: Whispers\r\neliteCharacterName: WhispersElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Und_Whisper_1\r\ntitle: p\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

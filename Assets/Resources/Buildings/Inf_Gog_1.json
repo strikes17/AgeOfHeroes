@@ -1,0 +1,29 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 2,
+  "variant": 1,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": "Inf_Demon_1",
+  "basicCharacterName": "Gog",
+  "eliteCharacterName": "GogElite",
+  "upgradeGoldCost": 0,
+  "upgradeGemsCost": 0,
+  "goldCost": 0,
+  "gemsCost": 0,
+  "fraction": 3,
+  "internalName": "Inf_Gog_1",
+  "title": "Gog",
+  "description": "tier: 1\r\nvariant: 1\r\nrecruitmentsAvailable: 0\r\nblockedByBuildingName: \r\nbasicCharacterName: Imp\r\neliteCharacterName: ImpElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nupgradeGoldCost: 0\r\nupgradeGemsCost: 0\r\ngoldCost: 0\r\ngemsCost: 0\r\nfraction: Inferno\r\ninternalName: Inf_Imp_1\r\ntitle: Crucible\r\ndescription: \r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Inf_Imp_1",
+      "Inf_Totem_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

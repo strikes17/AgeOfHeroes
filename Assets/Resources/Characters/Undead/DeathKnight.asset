@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: DeathKnight
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Dark Riders
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 1b0301ffddded5f4cb84ba3bcc985662, type: 3}
+  - {fileID: 8300000, guid: 020190ce5513f0e4dbe20e7d7ea3d125, type: 3}
+  - {fileID: 8300000, guid: fe6b1c74592fcf7439383e95de4e386d, type: 3}
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: f6c57745325a2da4bbc01d6b52fef0e5, type: 3}
+  - {fileID: 8300000, guid: ed85f316d175c0f48bf6bdebd5036b0f, type: 3}
+  - {fileID: 8300000, guid: f7a9c80eec348f04fb0cbee6de33fa4c, type: 3}
+  - {fileID: 8300000, guid: 45d6873856f430845ab33063a7596861, type: 3}
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: 6a025346e67f05746a503c47dc55744a, type: 3}
+  - {fileID: 8300000, guid: 1bdfa182d798a3744b0fda66bc685409, type: 3}
+  - {fileID: 8300000, guid: 04ca05a5dcbdd8247b26a3ccffe0a386, type: 3}
+  deathAudioClips: []
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 343844105, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 5
+  startingMovementPoints: 10
+  startingHealth: 180
+  startingMana: 0
+  damageValue: 45
+  attackValue: 35
+  defenseValue: 20
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 1
+  visionRadius: 6
+  experienceValue: 90
+  goldPrice: 140
+  gemsPrice: 0
+  baseGrowthPerDay: 0.3
+  fullStackCount: 3
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: 0485ddbe4ca441c4eba9d5bbb90cf68b, type: 2}

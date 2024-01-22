@@ -1,0 +1,10 @@
+{
+  "$type": "AgeOfHeroes.PreventiveRetilationAttackAbility, AgeOfHeroes",
+  "performedOnRetilation": true,
+  "spriteIconPath": "stats+attack_stat",
+  "combatAbilityType": 2,
+  "combatAbilityOrder": 2,
+  "description": null,
+  "title": "Preventive Retaliation",
+  "internalName": "prev_retal"
+}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: ArcherElite
+  m_EditorClassIdentifier: 
+  Fraction: 1
+  title: Crossbowman
+  description: Heavy crossbow, very strong against armored units.
+  voiceAttackAudioClips: []
+  weaponAttackAudioClips:
+  - {fileID: 8300000, guid: d8a4a6efd4c656d4ba2fbaad3ed08070, type: 3}
+  - {fileID: 8300000, guid: 1cab66a195677494ba07048920ccef4f, type: 3}
+  idleAudioClips:
+  - {fileID: 8300000, guid: 197763e3b724d904681c14d3459f5a72, type: 3}
+  - {fileID: 8300000, guid: 6c585a84b4d2c8848a8282f7bd3faf7e, type: 3}
+  painAudioClips:
+  - {fileID: 8300000, guid: 52165d28d2138a044ba75e2e4670a3a2, type: 3}
+  - {fileID: 8300000, guid: 5c5988e02ab47e44da3ebdbc686719ab, type: 3}
+  - {fileID: 8300000, guid: 40da1199acd41dc41ab894ef00dcda1e, type: 3}
+  - {fileID: 8300000, guid: a0c277e8b1a647a46bed1910a130673b, type: 3}
+  - {fileID: 8300000, guid: b66370894a7714e49add971e35e877fa, type: 3}
+  - {fileID: 8300000, guid: 952367b44c0065945b53656d82da8725, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: ed31c3c1e868ddf47a9942434d0b0b8a, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: 1612496195, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: -873721918, guid: 8c692848dc2ed874f980c697104bef73, type: 3}
+  tier: 1
+  startingMovementPoints: 3
+  startingHealth: 16
+  startingMana: 0
+  damageValue: 6
+  attackValue: 8
+  defenseValue: 10
+  attackRange: 6
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 1
+  isWizard: 0
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 10000000
+  shoots: 25
+  isHuge: 0
+  visionRadius: 4
+  experienceValue: 6
+  goldPrice: 10
+  gemsPrice: 0
+  baseGrowthPerDay: 2
+  fullStackCount: 18
+  hasEliteForm: 0
+  isAnEliteForm: 1
+  eliteFormObject: {fileID: 0}

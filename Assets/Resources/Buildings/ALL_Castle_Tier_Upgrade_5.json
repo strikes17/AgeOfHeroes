@@ -1,0 +1,55 @@
+{
+  "$type": "AgeOfHeroes.CastleTierSpecialBuilding, AgeOfHeroes",
+  "tier": 4,
+  "nextTierUpgrade": null,
+  "goldIncome": 200,
+  "gemsIncome": 0.1,
+  "growthMultiplier": 1.0,
+  "StartingGuards": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes]], mscorlib",
+    "1": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    },
+    "2": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    },
+    "3": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    },
+    "4": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    },
+    "5": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    },
+    "6": {
+      "$type": "AgeOfHeroes.CastleTierSpecialBuilding+CastleGuardInfo, AgeOfHeroes",
+      "FightingPoints": 0,
+      "IsElite": false
+    }
+  },
+  "goldCost": 1000,
+  "gemsCost": 2,
+  "fraction": 0,
+  "internalName": "ALL_Castle_Tier_Upgrade_5",
+  "title": "Tier 5",
+  "description": "+400 daily gold income and +100% units growth",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "IconPath": "build_cupgrade_1+build_cupgrade_1_3",
+  "PlayerOwner": null,
+  "IsBuilt": false,
+  "IsRestricted": false
+}

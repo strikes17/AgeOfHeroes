@@ -1,0 +1,19 @@
+{
+  "$type": "AgeOfHeroes.Spell.AttackModifierBuff, AgeOfHeroes",
+  "value": 10.0,
+  "Operation": 1,
+  "title": "Press The Attack!",
+  "internalName": "attack10",
+  "description": "increases attack by <color=#00FF00><color=#00FF00>+10</color></color> <color=#808080>(Dispellable)</color>",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "stats+attacks_stat",
+  "IntegerValue": 10,
+  "BaseValue": 0.0,
+  "Modifier": null,
+  "Active": true
+}

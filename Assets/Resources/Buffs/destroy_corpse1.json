@@ -1,0 +1,14 @@
+{
+  "$type": "AgeOfHeroes.Spell.DestroyGameObjectBuff, AgeOfHeroes",
+  "title": "Destroy Corpse",
+  "internalName": "destroy_corpse1",
+  "description": "title: Destroy Corpse\r\ninternalName: destroy_corpse1\r\ndescription: \r\nspecialEffectName: \r\ndurationInRounds: 1\r\nbuffUpdateMoment: 0\r\nspriteIconPath: spells+spells_2\r\nspriteIcon: spells_2 (UnityEngine.Sprite)\r\n",
+  "specialEffectName": null,
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 0,
+  "spriteIconPath": "spells+spells_2",
+  "Active": true
+}

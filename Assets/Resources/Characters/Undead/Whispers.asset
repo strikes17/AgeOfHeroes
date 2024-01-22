@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e8409ef0ea24654866b206d3a860e5a, type: 3}
+  m_Name: Whispers
+  m_EditorClassIdentifier: 
+  Fraction: 2
+  title: Whispers
+  description: 
+  voiceAttackAudioClips:
+  - {fileID: 8300000, guid: 4f926f48688eccb4eb7685bbf26c6a8c, type: 3}
+  - {fileID: 8300000, guid: b88ddf24554077642abb6cf298f1a00b, type: 3}
+  - {fileID: 8300000, guid: e5412b3cc27be334099990daf8d993ee, type: 3}
+  weaponAttackAudioClips: []
+  idleAudioClips: []
+  painAudioClips:
+  - {fileID: 8300000, guid: 6ad32acbef19e0e43821a5ee94a7477a, type: 3}
+  - {fileID: 8300000, guid: 90d9164338f6a3c4a83fea44ef388575, type: 3}
+  - {fileID: 8300000, guid: 52ddb435cff834545bce2e8c1d6c43da, type: 3}
+  deathAudioClips:
+  - {fileID: 8300000, guid: 06e784b9f5d26834babbaa8ee189c08f, type: 3}
+  - {fileID: 8300000, guid: 7526407eb4ed5674496e9c7ad341b90c, type: 3}
+  cheerAudioClips: []
+  _combatAbilityNames: []
+  spellBookInternalName: 
+  idleAnimation: []
+  attackAnimation: []
+  moveAnimation: []
+  specialAnimation: []
+  magicAnimation: []
+  mainSprite: {fileID: -726660056, guid: 7f0c5ffb5f06c42458a7308d3e4d0686, type: 3}
+  corpseSprite: {fileID: 0}
+  tier: 1
+  startingMovementPoints: 2
+  startingHealth: 12
+  startingMana: 8
+  damageValue: 4
+  attackValue: 4
+  defenseValue: 2
+  attackRange: 1
+  isFlying: 0
+  canCrossWater: 0
+  isShooter: 0
+  isWizard: 1
+  attacksCount: 1
+  retilationsCount: 1
+  rangedRetilationsCount: 0
+  persona: 20000000
+  shoots: 0
+  isHuge: 0
+  visionRadius: 4
+  experienceValue: 2
+  goldPrice: 2
+  gemsPrice: 0
+  baseGrowthPerDay: 2
+  fullStackCount: 20
+  hasEliteForm: 1
+  isAnEliteForm: 0
+  eliteFormObject: {fileID: 11400000, guid: 19dbc8f4609d08d4c9cf5ddb76d764a6, type: 2}

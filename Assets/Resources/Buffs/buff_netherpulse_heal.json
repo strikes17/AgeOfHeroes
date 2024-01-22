@@ -1,0 +1,17 @@
+{
+  "$type": "AgeOfHeroes.Spell.HealingBuff, AgeOfHeroes",
+  "value": 60,
+  "ressurects": true,
+  "dispellsNegativeBuffs": false,
+  "title": "Deathpulse Heal",
+  "internalName": "buff_netherpulse_heal",
+  "description": null,
+  "specialEffectName": "netherpulse_heal",
+  "baseDuration": 0,
+  "isDispellable": true,
+  "stackingEnabled": false,
+  "savingState": true,
+  "buffUpdateMoment": 1,
+  "spriteIconPath": "magic_pack_1+magic_pack_1_2",
+  "Active": true
+}

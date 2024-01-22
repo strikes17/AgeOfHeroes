@@ -1,0 +1,28 @@
+{
+  "$type": "AgeOfHeroes.CharacterShopBuilding, AgeOfHeroes",
+  "tier": 3,
+  "variant": 1,
+  "recruitmentsAvailable": 0.0,
+  "blockedByBuildingName": "Hum_Monk_1",
+  "basicCharacterName": "Worker",
+  "eliteCharacterName": "WorkerElite",
+  "upgradeGoldCost": 300,
+  "upgradeGemsCost": 1,
+  "goldCost": 150,
+  "gemsCost": 0,
+  "fraction": 1,
+  "internalName": "Hum_Worker_1",
+  "title": "Workshop",
+  "description": "level: 1\r\ntier: 3\r\nvariant: 1\r\nbasicCharacterName: Worker\r\neliteCharacterName: WorkerElite\r\nbasicCharacterForm: \r\neliteCharacterForm: \r\nfraction: 0\r\ninternalName: Hum_Worker_1\r\ntitle: Workshop\r\ndescription: \r\nisBuilt: False\r\nrequiredBuiltBuildings: System.Collections.Generic.List`1[System.String]\r\n",
+  "requiredBuiltBuildings": {
+    "$type": "System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Hum_Pikeman_1",
+      "Hum_Ballista_1"
+    ]
+  },
+  "RecruitsAvailableInteger": 0,
+  "Level": 1,
+  "IsBuilt": false,
+  "IsRestricted": false
+}
