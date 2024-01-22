@@ -1,0 +1,17 @@
+Library/*
+.vscode/*
+.vs/*
+Builds/*
+obj/*
+Packages/*
+WebGL Builds/*
+Logs/*
+.idea/*
+.config/*
+*.zip
+*.7z
+*Mirror*
+*FastScriptReload*
+*Ludiq*
+*SuperTiled2*
+*AllIn1*
